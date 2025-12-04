@@ -16,5 +16,874 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{englander2021architecture}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c59760a5c2721ff647e2e1c8629cd40f}{%
+           family={Englander},
+           familyi={E\bibinitperiod},
+           given={Irv},
+           giveni={I\bibinitperiod}}}%
+        {{hash=29d2112bd28edaa15b894877502907b5}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Wilson},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{41df2ea45392a4ed3dc113dacca9829b}
+      \strng{fullhash}{41df2ea45392a4ed3dc113dacca9829b}
+      \strng{bibnamehash}{41df2ea45392a4ed3dc113dacca9829b}
+      \strng{authorbibnamehash}{41df2ea45392a4ed3dc113dacca9829b}
+      \strng{authornamehash}{41df2ea45392a4ed3dc113dacca9829b}
+      \strng{authorfullhash}{41df2ea45392a4ed3dc113dacca9829b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The architecture of computer hardware, systems software, and networking: An information technology approach}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{khorikov2020unit}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ae7d791b09169413f0a98ee213d97d6a}{%
+           family={Khorikov},
+           familyi={K\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{ae7d791b09169413f0a98ee213d97d6a}
+      \strng{fullhash}{ae7d791b09169413f0a98ee213d97d6a}
+      \strng{bibnamehash}{ae7d791b09169413f0a98ee213d97d6a}
+      \strng{authorbibnamehash}{ae7d791b09169413f0a98ee213d97d6a}
+      \strng{authornamehash}{ae7d791b09169413f0a98ee213d97d6a}
+      \strng{authorfullhash}{ae7d791b09169413f0a98ee213d97d6a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unit testing principles, practices, and patterns}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{windler2022clean}{book}{}
+      \name{author}{2}{}{%
+        {{hash=1da6a4718fa1e68c8b311f5f0ddbe7eb}{%
+           family={Windler},
+           familyi={W\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ac379b03e8ce4aa137f929a8615b2d74}{%
+           family={Daubois},
+           familyi={D\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing Ltd}%
+      }
+      \strng{namehash}{e101c2d27078b12df30412b780f0b293}
+      \strng{fullhash}{e101c2d27078b12df30412b780f0b293}
+      \strng{bibnamehash}{e101c2d27078b12df30412b780f0b293}
+      \strng{authorbibnamehash}{e101c2d27078b12df30412b780f0b293}
+      \strng{authornamehash}{e101c2d27078b12df30412b780f0b293}
+      \strng{authorfullhash}{e101c2d27078b12df30412b780f0b293}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clean Code in PHP: Expert tips and best practices to write beautiful, human-friendly, and maintainable PHP}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{engebreth2021php}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6acf4b3fe470922acb9d10a7fda9cf8b}{%
+           family={Engebreth},
+           familyi={E\bibinitperiod},
+           given={Gunnard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6acf4b3fe470922acb9d10a7fda9cf8b}
+      \strng{fullhash}{6acf4b3fe470922acb9d10a7fda9cf8b}
+      \strng{bibnamehash}{6acf4b3fe470922acb9d10a7fda9cf8b}
+      \strng{authorbibnamehash}{6acf4b3fe470922acb9d10a7fda9cf8b}
+      \strng{authornamehash}{6acf4b3fe470922acb9d10a7fda9cf8b}
+      \strng{authorfullhash}{6acf4b3fe470922acb9d10a7fda9cf8b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PHP 8 Revealed}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{frain2022responsive}{book}{}
+      \name{author}{1}{}{%
+        {{hash=45bffad3e1fe83813669fafe382d54ce}{%
+           family={Frain},
+           familyi={F\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing Ltd}%
+      }
+      \strng{namehash}{45bffad3e1fe83813669fafe382d54ce}
+      \strng{fullhash}{45bffad3e1fe83813669fafe382d54ce}
+      \strng{bibnamehash}{45bffad3e1fe83813669fafe382d54ce}
+      \strng{authorbibnamehash}{45bffad3e1fe83813669fafe382d54ce}
+      \strng{authornamehash}{45bffad3e1fe83813669fafe382d54ce}
+      \strng{authorfullhash}{45bffad3e1fe83813669fafe382d54ce}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Responsive Web Design with HTML5 and CSS: Build future-proof responsive websites using the latest HTML5 and CSS techniques}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{botros2021high}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0db7026326c617353605e10d62214775}{%
+           family={Botros},
+           familyi={B\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df0d9ab612d10a2384a2dd91ccd57b0d}{%
+           family={Tinley},
+           familyi={T\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{bdb172f0e382196568f82ec7b9128dbe}
+      \strng{fullhash}{bdb172f0e382196568f82ec7b9128dbe}
+      \strng{bibnamehash}{bdb172f0e382196568f82ec7b9128dbe}
+      \strng{authorbibnamehash}{bdb172f0e382196568f82ec7b9128dbe}
+      \strng{authornamehash}{bdb172f0e382196568f82ec7b9128dbe}
+      \strng{authorfullhash}{bdb172f0e382196568f82ec7b9128dbe}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{High Performance MySQL}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{murach2022murach}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c31ad1e002b49bc2f2fe01f2b802f5e7}{%
+           family={Murach},
+           familyi={M\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d2a4292d6347e93257113d41223da352}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mike Murach \& Associates, Incorporated}%
+      }
+      \strng{namehash}{4d37b028d394d83eca36cf66abe9e58c}
+      \strng{fullhash}{4d37b028d394d83eca36cf66abe9e58c}
+      \strng{bibnamehash}{4d37b028d394d83eca36cf66abe9e58c}
+      \strng{authorbibnamehash}{4d37b028d394d83eca36cf66abe9e58c}
+      \strng{authornamehash}{4d37b028d394d83eca36cf66abe9e58c}
+      \strng{authorfullhash}{4d37b028d394d83eca36cf66abe9e58c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Murach's PHP and MySQL}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{zandstra2021php}{book}{}
+      \name{author}{1}{}{%
+        {{hash=daa03719da95504193cecb5c24e34999}{%
+           family={Zandstra},
+           familyi={Z\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{daa03719da95504193cecb5c24e34999}
+      \strng{fullhash}{daa03719da95504193cecb5c24e34999}
+      \strng{bibnamehash}{daa03719da95504193cecb5c24e34999}
+      \strng{authorbibnamehash}{daa03719da95504193cecb5c24e34999}
+      \strng{authornamehash}{daa03719da95504193cecb5c24e34999}
+      \strng{authorfullhash}{daa03719da95504193cecb5c24e34999}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PHP 8 objects, patterns, and practice: mastering OO enhancements, design patterns, and essential development tools}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{sahu2024building}{book}{}
+      \name{author}{1}{}{%
+        {{hash=332c6556d78c8fafc4cc384da35bf60e}{%
+           family={Sahu},
+           familyi={S\bibinitperiod},
+           given={Satej\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{332c6556d78c8fafc4cc384da35bf60e}
+      \strng{fullhash}{332c6556d78c8fafc4cc384da35bf60e}
+      \strng{bibnamehash}{332c6556d78c8fafc4cc384da35bf60e}
+      \strng{authorbibnamehash}{332c6556d78c8fafc4cc384da35bf60e}
+      \strng{authornamehash}{332c6556d78c8fafc4cc384da35bf60e}
+      \strng{authorfullhash}{332c6556d78c8fafc4cc384da35bf60e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Building Secure PHP Applications}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{smith2025php}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ff2f04d188db035847824c366588df03}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {No Starch Press}%
+      }
+      \strng{namehash}{ff2f04d188db035847824c366588df03}
+      \strng{fullhash}{ff2f04d188db035847824c366588df03}
+      \strng{bibnamehash}{ff2f04d188db035847824c366588df03}
+      \strng{authorbibnamehash}{ff2f04d188db035847824c366588df03}
+      \strng{authornamehash}{ff2f04d188db035847824c366588df03}
+      \strng{authorfullhash}{ff2f04d188db035847824c366588df03}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PHP Crash Course: The Complete, Modern, Hands-On Guide}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{grippa2021learning}{book}{}
+      \name{author}{2}{}{%
+        {{hash=8929197a1a77f79cb26f7454b3b6ee55}{%
+           family={Grippa},
+           familyi={G\bibinitperiod},
+           given={Vinicius\bibnamedelima M},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c77e12829e2c10dc7042365bbb3a6fab}{%
+           family={Kuzmichev},
+           familyi={K\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{038aa8470800dee6ee1f53977676ed53}
+      \strng{fullhash}{038aa8470800dee6ee1f53977676ed53}
+      \strng{bibnamehash}{038aa8470800dee6ee1f53977676ed53}
+      \strng{authorbibnamehash}{038aa8470800dee6ee1f53977676ed53}
+      \strng{authornamehash}{038aa8470800dee6ee1f53977676ed53}
+      \strng{authorfullhash}{038aa8470800dee6ee1f53977676ed53}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning MySQL}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{nixon2021learning}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7a4227661cd6730dccb19c45601b50f0}{%
+           family={Nixon},
+           familyi={N\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{7a4227661cd6730dccb19c45601b50f0}
+      \strng{fullhash}{7a4227661cd6730dccb19c45601b50f0}
+      \strng{bibnamehash}{7a4227661cd6730dccb19c45601b50f0}
+      \strng{authorbibnamehash}{7a4227661cd6730dccb19c45601b50f0}
+      \strng{authornamehash}{7a4227661cd6730dccb19c45601b50f0}
+      \strng{authorfullhash}{7a4227661cd6730dccb19c45601b50f0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning PHP, MySQL \& JavaScript: a step-by-step guide to creating dynamic websites}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{meliza2023propuesta}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=506116e55ccd3766b1f650694f98581a}{%
+           family={Ayasta\bibnamedelima Arellano},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Kelly\bibnamedelima Meliza},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=990f0112c31ea8caf32e59ef84ab570d}{%
+           family={Camarena\bibnamedelima Salaverry},
+           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Anderson\bibnamedelimb Hirwin\bibnamedelima Roy},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Peruana de Ciencias Informáticas}%
+      }
+      \strng{namehash}{cde1b44c51350597d0cd3f13404b384a}
+      \strng{fullhash}{cde1b44c51350597d0cd3f13404b384a}
+      \strng{bibnamehash}{cde1b44c51350597d0cd3f13404b384a}
+      \strng{authorbibnamehash}{cde1b44c51350597d0cd3f13404b384a}
+      \strng{authornamehash}{cde1b44c51350597d0cd3f13404b384a}
+      \strng{authorfullhash}{cde1b44c51350597d0cd3f13404b384a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Propuesta de un Sistema Web de Mesa de Ayuda Para la Atención al Usuario en el Hospital Nacional Guillermo Almenara Irigoyen 2021}
+      \field{type}{Tesis de Licenciatura}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{lopez2014implementacion}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=74584ea68fa62a41e953bf023ef42b13}{%
+           family={López\bibnamedelima Vera},
+           familyi={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Fabián\bibnamedelima Fernando},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{74584ea68fa62a41e953bf023ef42b13}
+      \strng{fullhash}{74584ea68fa62a41e953bf023ef42b13}
+      \strng{bibnamehash}{74584ea68fa62a41e953bf023ef42b13}
+      \strng{authorbibnamehash}{74584ea68fa62a41e953bf023ef42b13}
+      \strng{authornamehash}{74584ea68fa62a41e953bf023ef42b13}
+      \strng{authorfullhash}{74584ea68fa62a41e953bf023ef42b13}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementación de un sistema de mesa de ayuda informático (HELP DESK) para el control de incidencias que se presentan en el Gobierno Autónomo Descentralizado de la provincia de Esmeraldas}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{ore2024implementacion}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=1ca695ebd8f04f3f1c33bd15641d28ca}{%
+           family={Ore\bibnamedelima Calderon},
+           familyi={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Alicia\bibnamedelima Maribel},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8377142d3d97283b790ece78f2751cb6}{%
+           family={Antenucci\bibnamedelima Ruiz},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Samantha\bibnamedelima Mariela},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad San Ignacio de Loyola}%
+      }
+      \strng{namehash}{f8fa6535430296c93acdb275b196b862}
+      \strng{fullhash}{f8fa6535430296c93acdb275b196b862}
+      \strng{bibnamehash}{f8fa6535430296c93acdb275b196b862}
+      \strng{authorbibnamehash}{f8fa6535430296c93acdb275b196b862}
+      \strng{authornamehash}{f8fa6535430296c93acdb275b196b862}
+      \strng{authorfullhash}{f8fa6535430296c93acdb275b196b862}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementación de una mesa de ayuda para mejorar la gestión de incidencias en una empresa de servicios}
+      \field{type}{Tesis de Licenciatura}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{almeida2019implementar}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=de72ea7a671d4838d41db4e9d07535ba}{%
+           family={Almeida\bibnamedelima Vizcaíno},
+           familyi={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={José\bibnamedelima Luis},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de las Fuerzas Armadas ESPE}%
+      }
+      \strng{namehash}{de72ea7a671d4838d41db4e9d07535ba}
+      \strng{fullhash}{de72ea7a671d4838d41db4e9d07535ba}
+      \strng{bibnamehash}{de72ea7a671d4838d41db4e9d07535ba}
+      \strng{authorbibnamehash}{de72ea7a671d4838d41db4e9d07535ba}
+      \strng{authornamehash}{de72ea7a671d4838d41db4e9d07535ba}
+      \strng{authorfullhash}{de72ea7a671d4838d41db4e9d07535ba}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementar un sistema de mesa de ayuda para el registro, gestión y control de incidencias tecnológicas del {Hospital} {General} {Latacunga} aplicando el marco de referencia {ITIL} {V3}}
+      \field{type}{{B.S.} thesis}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{diaz2020software}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=77ce2b594264c76ae2c105963438a0de}{%
+           family={Diaz\bibnamedelima Zubiate},
+           familyi={D\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Marlon\bibnamedelima Eduardo},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fbc7e4e224903d086ece002b58824e2b}{%
+           family={Arévalo\bibnamedelima Piña},
+           familyi={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Eolo\bibnamedelima Arquímedes},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Científica del Perú}%
+      }
+      \strng{namehash}{263d04d1804c96f2c209ab860a7ffa0c}
+      \strng{fullhash}{263d04d1804c96f2c209ab860a7ffa0c}
+      \strng{bibnamehash}{263d04d1804c96f2c209ab860a7ffa0c}
+      \strng{authorbibnamehash}{263d04d1804c96f2c209ab860a7ffa0c}
+      \strng{authornamehash}{263d04d1804c96f2c209ab860a7ffa0c}
+      \strng{authorfullhash}{263d04d1804c96f2c209ab860a7ffa0c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Software mesa de ayuda para mejorar los servicios de soporte de tecnología de la información en la empresa JVC Consultores y Ejecutores EIRL-Iquitos; 2019}
+      \field{type}{Tesis de Licenciatura}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{banoth2023classical}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a2d899098ec684a6fe94e2e688695bf1}{%
+           family={Banoth},
+           familyi={B\bibinitperiod},
+           given={Rajkumar},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a76749a4c2c3908fac45c9ee75083669}{%
+           family={Regar},
+           familyi={R\bibinitperiod},
+           given={Rekha},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7bf13791cb688fc5a3ea0d79fe68fd54}
+      \strng{fullhash}{7bf13791cb688fc5a3ea0d79fe68fd54}
+      \strng{bibnamehash}{7bf13791cb688fc5a3ea0d79fe68fd54}
+      \strng{authorbibnamehash}{7bf13791cb688fc5a3ea0d79fe68fd54}
+      \strng{authornamehash}{7bf13791cb688fc5a3ea0d79fe68fd54}
+      \strng{authorfullhash}{7bf13791cb688fc5a3ea0d79fe68fd54}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classical and Modern Cryptography for Beginners}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{hoffman2024web}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3bc8b4083a54be0346e297b34b9ec7d7}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{3bc8b4083a54be0346e297b34b9ec7d7}
+      \strng{fullhash}{3bc8b4083a54be0346e297b34b9ec7d7}
+      \strng{bibnamehash}{3bc8b4083a54be0346e297b34b9ec7d7}
+      \strng{authorbibnamehash}{3bc8b4083a54be0346e297b34b9ec7d7}
+      \strng{authornamehash}{3bc8b4083a54be0346e297b34b9ec7d7}
+      \strng{authorfullhash}{3bc8b4083a54be0346e297b34b9ec7d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Web application security}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{adkins2020building}{book}{}
+      \name{author}{6}{}{%
+        {{hash=160a1094b661d61b04749fc0d2e343ee}{%
+           family={Adkins},
+           familyi={A\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+        {{hash=804009dd6ea3185359156e228afc3f35}{%
+           family={Beyer},
+           familyi={B\bibinitperiod},
+           given={Betsy},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5f7ee814bc9f1f05e59028af32ad6750}{%
+           family={Blankinship},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=49bedbd3b0ac6afda4d1835e7f48c9fc}{%
+           family={Lewandowski},
+           familyi={L\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=89042e6fdb3940963a2076ddd5e3fc49}{%
+           family={Oprea},
+           familyi={O\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=affe62342f6e9a3da8fa30b04b6137e5}{%
+           family={Stubblefield},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{589d92a3d6f5d997ae6bbd8198256394}
+      \strng{fullhash}{2bca0ebb2c2acfe1498ccf6a5cc0aa49}
+      \strng{bibnamehash}{589d92a3d6f5d997ae6bbd8198256394}
+      \strng{authorbibnamehash}{589d92a3d6f5d997ae6bbd8198256394}
+      \strng{authornamehash}{589d92a3d6f5d997ae6bbd8198256394}
+      \strng{authorfullhash}{2bca0ebb2c2acfe1498ccf6a5cc0aa49}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Building secure and reliable systems: best practices for designing, implementing, and maintaining systems}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{foster2022database}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6d792ac686b95212cd796bd15b73dbf6}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Elvis},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6276b068831b8160d46de4b265b0bc59}{%
+           family={Godbole},
+           familyi={G\bibinitperiod},
+           given={Shripad},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Auerbach Publications}%
+      }
+      \strng{namehash}{6595ac7d759d2fde47ae67f867d35fac}
+      \strng{fullhash}{6595ac7d759d2fde47ae67f867d35fac}
+      \strng{bibnamehash}{6595ac7d759d2fde47ae67f867d35fac}
+      \strng{authorbibnamehash}{6595ac7d759d2fde47ae67f867d35fac}
+      \strng{authornamehash}{6595ac7d759d2fde47ae67f867d35fac}
+      \strng{authorfullhash}{6595ac7d759d2fde47ae67f867d35fac}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database systems: a pragmatic approach}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{gillenson2023fundamentals}{book}{}
+      \name{author}{1}{}{%
+        {{hash=65cf46641427dc92168440b3b3d2d752}{%
+           family={Gillenson},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{65cf46641427dc92168440b3b3d2d752}
+      \strng{fullhash}{65cf46641427dc92168440b3b3d2d752}
+      \strng{bibnamehash}{65cf46641427dc92168440b3b3d2d752}
+      \strng{authorbibnamehash}{65cf46641427dc92168440b3b3d2d752}
+      \strng{authornamehash}{65cf46641427dc92168440b3b3d2d752}
+      \strng{authorfullhash}{65cf46641427dc92168440b3b3d2d752}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of database management systems}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{davidson2021pro}{book}{}
+      \name{author}{1}{}{%
+        {{hash=abf838f95c0fe9012069baf6417e9705}{%
+           family={Davidson},
+           familyi={D\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{abf838f95c0fe9012069baf6417e9705}
+      \strng{fullhash}{abf838f95c0fe9012069baf6417e9705}
+      \strng{bibnamehash}{abf838f95c0fe9012069baf6417e9705}
+      \strng{authorbibnamehash}{abf838f95c0fe9012069baf6417e9705}
+      \strng{authornamehash}{abf838f95c0fe9012069baf6417e9705}
+      \strng{authorfullhash}{abf838f95c0fe9012069baf6417e9705}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro SQL Server Relational Database Design and Implementation: Best Practices for Scalability and Performance}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{richards2020fundamentals}{book}{}
+      \name{author}{2}{}{%
+        {{hash=8e3c0b09130cc7c13c7cda6ef28a7d48}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5ffeeeb533dfcb3c39bada5fdcf44fc0}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={Neal},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{755202f5a26937dce6816860584aac24}
+      \strng{fullhash}{755202f5a26937dce6816860584aac24}
+      \strng{bibnamehash}{755202f5a26937dce6816860584aac24}
+      \strng{authorbibnamehash}{755202f5a26937dce6816860584aac24}
+      \strng{authornamehash}{755202f5a26937dce6816860584aac24}
+      \strng{authorfullhash}{755202f5a26937dce6816860584aac24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of software architecture: an engineering approach}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{foster2021software}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6d792ac686b95212cd796bd15b73dbf6}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Elvis},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9190728203a965a8b27ab2c2844bf9a9}{%
+           family={Towle\bibnamedelima Jr},
+           familyi={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Bradford},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Auerbach Publications}%
+      }
+      \strng{namehash}{25c8cc5ee335b7e3f5c0b3652cb064da}
+      \strng{fullhash}{25c8cc5ee335b7e3f5c0b3652cb064da}
+      \strng{bibnamehash}{25c8cc5ee335b7e3f5c0b3652cb064da}
+      \strng{authorbibnamehash}{25c8cc5ee335b7e3f5c0b3652cb064da}
+      \strng{authornamehash}{25c8cc5ee335b7e3f5c0b3652cb064da}
+      \strng{authorfullhash}{25c8cc5ee335b7e3f5c0b3652cb064da}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Software engineering: a methodical approach}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{aniche2022effective}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a3788f7c464479b7be2570290db51bff}{%
+           family={Aniche},
+           familyi={A\bibinitperiod},
+           given={Maurício},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{a3788f7c464479b7be2570290db51bff}
+      \strng{fullhash}{a3788f7c464479b7be2570290db51bff}
+      \strng{bibnamehash}{a3788f7c464479b7be2570290db51bff}
+      \strng{authorbibnamehash}{a3788f7c464479b7be2570290db51bff}
+      \strng{authornamehash}{a3788f7c464479b7be2570290db51bff}
+      \strng{authorfullhash}{a3788f7c464479b7be2570290db51bff}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effective Software Testing: A developer's guide}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{miller2022linux}{book}{}
+      \name{author}{1}{}{%
+        {{hash=03ba3eb291ed97e8ce43f0bc2a283d79}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Scott\bibnamedelima Alan},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing Ltd}%
+      }
+      \strng{namehash}{03ba3eb291ed97e8ce43f0bc2a283d79}
+      \strng{fullhash}{03ba3eb291ed97e8ce43f0bc2a283d79}
+      \strng{bibnamehash}{03ba3eb291ed97e8ce43f0bc2a283d79}
+      \strng{authorbibnamehash}{03ba3eb291ed97e8ce43f0bc2a283d79}
+      \strng{authornamehash}{03ba3eb291ed97e8ce43f0bc2a283d79}
+      \strng{authorfullhash}{03ba3eb291ed97e8ce43f0bc2a283d79}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linux Administration Best Practices: Practical solutions to approaching the design and management of Linux systems}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{khononov2021learning}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c2c58ed6a20809c86307859514a1e21a}{%
+           family={Khononov},
+           familyi={K\bibinitperiod},
+           given={Vlad},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{c2c58ed6a20809c86307859514a1e21a}
+      \strng{fullhash}{c2c58ed6a20809c86307859514a1e21a}
+      \strng{bibnamehash}{c2c58ed6a20809c86307859514a1e21a}
+      \strng{authorbibnamehash}{c2c58ed6a20809c86307859514a1e21a}
+      \strng{authornamehash}{c2c58ed6a20809c86307859514a1e21a}
+      \strng{authorfullhash}{c2c58ed6a20809c86307859514a1e21a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning Domain-Driven Design}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{ford2021software}{book}{}
+      \name{author}{4}{}{%
+        {{hash=5ffeeeb533dfcb3c39bada5fdcf44fc0}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={Neal},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8e3c0b09130cc7c13c7cda6ef28a7d48}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=919fd0475641c5cbd58f72d166699af9}{%
+           family={Sadalage},
+           familyi={S\bibinitperiod},
+           given={Pramod},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f5bad3a4e3ac23c8c5479f8323bd1a01}{%
+           family={Dehghani},
+           familyi={D\bibinitperiod},
+           given={Zhamak},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{19c890e394f0c8cea55b88e24ea7e9c4}
+      \strng{fullhash}{586249ff205249fd2a5b7e3d5043a631}
+      \strng{bibnamehash}{19c890e394f0c8cea55b88e24ea7e9c4}
+      \strng{authorbibnamehash}{19c890e394f0c8cea55b88e24ea7e9c4}
+      \strng{authornamehash}{19c890e394f0c8cea55b88e24ea7e9c4}
+      \strng{authorfullhash}{586249ff205249fd2a5b7e3d5043a631}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Software architecture: The hard parts}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{pearlson2024managing}{book}{}
+      \name{author}{3}{}{%
+        {{hash=2d1a8f8a70a2af6dbd53ad73bb518bcb}{%
+           family={Pearlson},
+           familyi={P\bibinitperiod},
+           given={Keri\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=07f7b73da4cb0dd66675fdc03068af9d}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Carol\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=84ebaff923e23db7a8ef64e37f481320}{%
+           family={Galletta},
+           familyi={G\bibinitperiod},
+           given={Dennis\bibnamedelima F},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{5e5354bff84b08fd780b9c5abf6e0e1b}
+      \strng{fullhash}{5e5354bff84b08fd780b9c5abf6e0e1b}
+      \strng{bibnamehash}{5e5354bff84b08fd780b9c5abf6e0e1b}
+      \strng{authorbibnamehash}{5e5354bff84b08fd780b9c5abf6e0e1b}
+      \strng{authornamehash}{5e5354bff84b08fd780b9c5abf6e0e1b}
+      \strng{authorfullhash}{5e5354bff84b08fd780b9c5abf6e0e1b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Managing and using information systems: A strategic approach}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

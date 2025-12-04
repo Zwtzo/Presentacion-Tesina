@@ -86,6 +86,30 @@
     \end{center}
 \end{frame}
 
+% --- Nueva Diapositiva: Base de Datos ---
+\begin{frame}{Diseño de Base de Datos}
+    Se implementó un esquema relacional normalizado (3NF) en MySQL.
+    \vspace{0.3cm}
+    \begin{columns}
+        \column{0.5\textwidth}
+        \textbf{Entidades Principales:}
+        \begin{itemize}
+            \item \texttt{TrnMsolicitudes}: Ticket maestro.
+            \item \texttt{TrnDsolicitudes}: Bitácora de seguimiento (Detalle).
+            \item \texttt{Users} y \texttt{Roles}: Control de acceso (RBAC).
+        \end{itemize}
+        
+        \column{0.5\textwidth}
+        \begin{center}
+            % Asegúrate de tener una imagen del MER o diagrama relacional
+            \includegraphics[width=0.9\textwidth]{Diagrama_ER.png} 
+        \end{center}
+    \end{columns}
+    \vspace{0.2cm}
+    \footnotesize{La relación maestro-detalle permite la trazabilidad completa del historial del ticket.}
+\end{frame}
+% --- Nueva Diapositiva: Base de Datos ---
+
 % --- Diapositiva 5: Actores ---
 \begin{frame}{Actores y Funcionalidades}
     El sistema interactúa con 4 actores principales: \textbf{Administrador}, \textbf{Jefe de Área}, \textbf{Agente Técnico} y \textbf{Solicitante}.
@@ -213,6 +237,27 @@
     \end{center}
 \end{frame}
 
+% --- Nueva Diapositiva: Pruebas ---
+\section{Pruebas y Validación}
+\begin{frame}{Pruebas y Validación (Testing)}
+    Se realizaron dos niveles de pruebas para garantizar la calidad del software:
+    
+    \vspace{0.3cm}
+    
+    \textbf{1. Pruebas Unitarias e Integración (Backend)}
+    \begin{itemize}
+        \item Validación de reglas de negocio en Modelos y Controladores (PHPUnit).
+        \item Verificación de flujo de estados (Ej. \textit{Nuevo} $\rightarrow$ \textit{En Proceso}).
+    \end{itemize}
+    
+    \vspace{0.2cm}
+    
+    \textbf{2. Pruebas de Aceptación de Usuario (UAT)}
+    \begin{itemize}
+        \item Validación funcional con personal de la DIT.
+        \item \textbf{Resultado:} Se confirmó la trazabilidad y la correcta asignación de tickets entre áreas.
+    \end{itemize}
+\end{frame}
 % ==========================================
 % SECCIÓN 5: CIERRE
 % ==========================================
@@ -243,7 +288,10 @@
 % --- Referencias ---
 \section*{Referencias}
 \begin{frame}[t,noframenumbering,plain,allowframebreaks]{Referencias}
-    %\frametitle{Referencias}
+    % \nocite{*} obliga a incluir TODAS las entradas del archivo .bib 
+    % aunque no las hayas citado en el texto.
+    \nocite{*} 
+    
     \AtNextBibliography{\tiny}
     \printbibliography
 \end{frame}

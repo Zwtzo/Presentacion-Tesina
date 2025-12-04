@@ -466,6 +466,15 @@ INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\Diagrama_ER.png
+INPUT .\Diagrama_ER.png
+INPUT .\Diagrama_ER.png
+INPUT .\Diagrama_ER.png
+INPUT .\Diagrama_ER.png
+INPUT .\Diagrama_ER.png
+INPUT .\Diagrama_ER.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss9.tfm
 INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
@@ -530,6 +539,7 @@ INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss17.tfm
 INPUT .\Diapositiva1.png
 INPUT .\Diapositiva1.png
@@ -550,9 +560,17 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss9.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss9.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
