@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  4 DEC 2025 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  4 DEC 2025 12:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,39 +1024,39 @@ Package pdftex.def Info: Diapositiva1.png  used on input line 32.
 (pdftex.def)             Requested size: 455.244pt x 256.08284pt.
  [1
 
-{C:/Users/Z/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Diapositiva1.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 45.
- (C:\Program Files\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-)
-<Diapositiva2.png, id=140, 887.88857pt x 550.62857pt>
-File: Diapositiva2.png Graphic file (type png)
-<use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 45.
-(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
- [2
-
- <./Diapositiva2.png>] [3
-
-] (main.toc
+{C:/Users/Z/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Diapositiva1.png>] (main.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [4
+) [2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 50.
+ (C:\Program Files\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+<Diapositiva2.png, id=195, 887.88857pt x 550.62857pt>
+File: Diapositiva2.png Graphic file (type png)
+<use Diapositiva2.png>
+Package pdftex.def Info: Diapositiva2.png  used on input line 50.
+(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
+ [3
+
+ <./Diapositiva2.png>] [4
 
 ]
 <diagrama_mvc_uml.png, id=287, 3472.975pt x 2449.15pt>
 File: diagrama_mvc_uml.png Graphic file (type png)
 <use diagrama_mvc_uml.png>
-Package pdftex.def Info: diagrama_mvc_uml.png  used on input line 87.
+Package pdftex.def Info: diagrama_mvc_uml.png  used on input line 89.
 (pdftex.def)             Requested size: 159.333pt x 112.33713pt.
  [5
 
@@ -1064,7 +1064,7 @@ Package pdftex.def Info: diagrama_mvc_uml.png  used on input line 87.
 <Diagrama_ER.png, id=335, 1564.84625pt x 1231.60126pt>
 File: Diagrama_ER.png Graphic file (type png)
 <use Diagrama_ER.png>
-Package pdftex.def Info: Diagrama_ER.png  used on input line 110.
+Package pdftex.def Info: Diagrama_ER.png  used on input line 112.
 (pdftex.def)             Requested size: 179.25114pt x 141.07678pt.
  [6
 
@@ -1072,10 +1072,10 @@ Package pdftex.def Info: Diagrama_ER.png  used on input line 110.
 <diagrama_caso_de_uso.png, id=383, 827.09pt x 1253.68375pt>
 File: diagrama_caso_de_uso.png Graphic file (type png)
 <use diagrama_caso_de_uso.png>
-Package pdftex.def Info: diagrama_caso_de_uso.png  used on input line 127.
+Package pdftex.def Info: diagrama_caso_de_uso.png  used on input line 129.
 (pdftex.def)             Requested size: 99.58464pt x 150.93292pt.
 
-Overfull \vbox (11.48718pt too high) detected at line 127
+Overfull \vbox (11.48718pt too high) detected at line 129
  []
 
 [7
@@ -1084,7 +1084,7 @@ Overfull \vbox (11.48718pt too high) detected at line 127
 <Login.png, id=430, 1028.34187pt x 429.10312pt>
 File: Login.png Graphic file (type png)
 <use Login.png>
-Package pdftex.def Info: Login.png  used on input line 144.
+Package pdftex.def Info: Login.png  used on input line 146.
 (pdftex.def)             Requested size: 199.1693pt x 83.1084pt.
  [8
 
@@ -1092,7 +1092,7 @@ Package pdftex.def Info: Login.png  used on input line 144.
 <Formulario.png, id=478, 1015.54407pt x 389.95688pt>
 File: Formulario.png Graphic file (type png)
 <use Formulario.png>
-Package pdftex.def Info: Formulario.png  used on input line 157.
+Package pdftex.def Info: Formulario.png  used on input line 159.
 (pdftex.def)             Requested size: 199.1693pt x 76.47862pt.
  [9
 
@@ -1100,7 +1100,7 @@ Package pdftex.def Info: Formulario.png  used on input line 157.
 <Notificación.png, id=524, 732.48656pt x 191.21437pt>
 File: Notificación.png Graphic file (type png)
 <use Notificación.png>
-Package pdftex.def Info: Notificación.png  used on input line 169.
+Package pdftex.def Info: Notificación.png  used on input line 171.
 (pdftex.def)             Requested size: 278.83578pt x 72.79059pt.
  [10
 
@@ -1108,7 +1108,7 @@ Package pdftex.def Info: Notificación.png  used on input line 169.
 <Dashboard.png, id=570, 1011.02719pt x 420.82219pt>
 File: Dashboard.png Graphic file (type png)
 <use Dashboard.png>
-Package pdftex.def Info: Dashboard.png  used on input line 187.
+Package pdftex.def Info: Dashboard.png  used on input line 189.
 (pdftex.def)             Requested size: 199.1693pt x 82.89796pt.
  [11
 
@@ -1116,7 +1116,7 @@ Package pdftex.def Info: Dashboard.png  used on input line 187.
 <Generación_y_visualización.png, id=618, 1005.00468pt x 413.29407pt>
 File: Generación_y_visualización.png Graphic file (type png)
 <use Generación_y_visualización.png>
-Package pdftex.def Info: Generación_y_visualización.png  used on input line 200.
+Package pdftex.def Info: Generación_y_visualización.png  used on input line 202.
 (pdftex.def)             Requested size: 199.1693pt x 81.90057pt.
  [12
 
@@ -1124,7 +1124,7 @@ Package pdftex.def Info: Generación_y_visualización.png  used on input line 20
 <vista_seguimiento.png, id=666, 1025.33063pt x 375.65344pt>
 File: vista_seguimiento.png Graphic file (type png)
 <use vista_seguimiento.png>
-Package pdftex.def Info: vista_seguimiento.png  used on input line 213.
+Package pdftex.def Info: vista_seguimiento.png  used on input line 215.
 (pdftex.def)             Requested size: 199.1693pt x 72.96838pt.
  [13
 
@@ -1132,7 +1132,7 @@ Package pdftex.def Info: vista_seguimiento.png  used on input line 213.
 <Vista_admin.png, id=714, 1014.03844pt x 390.70969pt>
 File: Vista_admin.png Graphic file (type png)
 <use Vista_admin.png>
-Package pdftex.def Info: Vista_admin.png  used on input line 226.
+Package pdftex.def Info: Vista_admin.png  used on input line 228.
 (pdftex.def)             Requested size: 199.1693pt x 76.73953pt.
  [14
 
@@ -1140,7 +1140,7 @@ Package pdftex.def Info: Vista_admin.png  used on input line 226.
 <gestion_tecnico.png, id=760, 849.1725pt x 350.05782pt>
 File: gestion_tecnico.png Graphic file (type png)
 <use gestion_tecnico.png>
-Package pdftex.def Info: gestion_tecnico.png  used on input line 238.
+Package pdftex.def Info: gestion_tecnico.png  used on input line 240.
 (pdftex.def)             Requested size: 199.1693pt x 82.10335pt.
  [15
 
@@ -1161,7 +1161,7 @@ Package pdftex.def Info: gestion_tecnico.png  used on input line 238.
 ]
 File: Diapositiva1.png Graphic file (type png)
 <use Diapositiva1.png>
-Package pdftex.def Info: Diapositiva1.png  used on input line 310.
+Package pdftex.def Info: Diapositiva1.png  used on input line 312.
 (pdftex.def)             Requested size: 455.244pt x 256.08284pt.
  [22
 
@@ -1185,7 +1185,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AEA5D2CF5E442C87800CC903BD4083FB;1096.
+(rerunfilecheck)             Checksum: 76CB270BA71ACEBDA54ACF621748F391;1139.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1199,7 +1199,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,750b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (22 pages, 1142837 bytes).
+Output written on main.pdf (22 pages, 1142907 bytes).
 PDF statistics:
  1158 PDF objects out of 1200 (max. 8388607)
  83 named destinations out of 1000 (max. 500000)
