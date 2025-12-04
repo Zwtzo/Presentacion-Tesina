@@ -1,0 +1,209 @@
+\documentclass[aspectratio=169]{beamer}
+%Information to be included in the title page:
+\title{Desarrollo de un Sistema de VideoJuegos para Chamacos Inquietos que se la pasan nomas en el Celular}
+\author{C. Agapito Melo Agarras}
+\institute{Universidad Politécnica de Victoria}
+\date{17 de Abril de 2023}
+
+\usepackage{graphicx}
+\usepackage{tikz}
+\setbeamertemplate{sidebar right}{}
+\setbeamertemplate{footline}{%
+\hfill\usebeamertemplate***{navigation symbols}
+\hspace{1cm}\insertframenumber{}/\inserttotalframenumber}
+
+\usepackage[backend=biber, style=ieee, bibstyle=numeric, citestyle=numeric, sorting=none]{biblatex}
+\addbibresource{references.bib}
+\setbeamertemplate{bibliography item}{\insertbiblabel}
+
+
+\begin{document}
+
+\usebackgroundtemplate{%
+%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\thispagestyle{empty}
+\frame{\titlepage}
+
+\usebackgroundtemplate{%
+%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva2}};}
+
+\begin{frame}
+\frametitle{Contenido}
+\tableofcontents
+\end{frame}
+
+
+\section{Introducción}
+\begin{frame}
+\frametitle{Coaching}
+\begin{itemize}
+\item El coaching es una poderosa herramienta de desarrollo y aprendizaje que hunde sus raíces en el diálogo. Es una forma profunda de enfrentar la realidad empezando por uno mismo. Realizado con un coach profesional, es un poderoso agente de cambio que hace mejores directivos e impacta en la vida personal y profesional \cite{Microsoft:Concepto}.
+ 
+\item El coaching constituye, además, una eficaz herramienta para los líderes que desean crear significado y propósito, que buscan empoderar a sus empleados para que trabajen mejor y estén alineados con los valores de la organización \cite{OUI}.
+\end{itemize}
+
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Kotlin}
+\begin{itemize}
+\item Kotlin is a statically-typed object-oriented programming language developed by JetBrains primarily targeting the JVM \cite{Sistema:2018:Ivan}
+\item Kotlin is developed with the goals of being quick to compile, backwards-compatible, very type safe, and 100\% interoperable with Java \cite{dblp}
+\item Kotlin is also developed with the goal of providing many of the features wanted by Java developers \cite{rojas96neural}
+\item Kotlin's standard compiler allows it to be compiled both into Java bytecode for the JVM and into JavaScript.
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Kotlin}
+\begin{center}
+\begin{tabular}{cc}
+\hline
+\textbf{Version} & \textbf{Release date}\\ 
+\hline
+1.7.10 &   2022-07-07 \\
+1.7.0 &   2022-06-09\\
+1.6.0 &  2021-10-16 \\
+1.5.0 &  2021-05-05 \\
+1.4.0 &  2020-08-17 \\
+1.1.0 &	2017-03-01 \\
+1.0.0 &	2016-02-15 \\
+\hline
+\end{tabular}
+\end{center}
+\end{frame}
+
+
+
+\section{Marco teórico}
+\begin{frame}
+\frametitle{Redes Neuronales Artificiales}
+Una red neuronal es un método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera que está inspirada en la forma en que lo hace el cerebro humano \cite{Mueller:02}.
+\end{frame}
+
+\begin{frame}
+\frametitle{Aprendizaje Profundo}
+El aprendizaje profundo se enfoca en mejorar el proceso de aprendizaje de las máquinas. Con inteligencia artificial y ML basados en reglas, un científico de datos determina las reglas y características del grupo de datos para incluir en modelos, lo que impulsa el modo en que funcionan los modelos \cite{Bech:63}.
+\end{frame}
+
+\section{Sistema Propuesto}
+\begin{frame}
+\frametitle{Diagrama E-R del sistema (Si la imagen es transparente, el fondo se ve)}
+\begin{center}
+\includegraphics[width=10cm]{graphics/ER_tikz.png}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Casos de Uso (la imagen es opaca, el fondo no se ve)}
+\begin{columns}
+\column{0.5\linewidth}
+\begin{block}{Caracteristicas del sistema}
+\begin{itemize}
+\item Bueno
+\item Bonito
+\item Barato
+\end{itemize}
+\end{block}
+\column{0.5\linewidth}
+\begin{center}
+\begin{block}{Pantalla principal}
+\includegraphics[width=6cm]{graphics/CasodeUso.png}
+\end{block}
+\end{center}
+
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Casos de Clases}
+\begin{columns}
+\column{0.5\linewidth}
+\begin{block}{Caracteristicas del sistema}
+\begin{itemize}
+\item Bueno (mejor que cualquier solución existente)
+\item Bonito (la neta, esta precioso)
+\item Barato (es gratis, no pagas nada)
+\end{itemize}
+\end{block}
+\column{0.5\linewidth}
+\begin{center}
+\begin{block}{Pantalla principal}
+\includegraphics[width=6cm]{graphics/DiagramaCasosdeClases.png}
+\end{block}
+\end{center}
+\end{columns}
+\end{frame}
+
+
+
+
+\section{Implementación y resultados}
+\begin{frame}
+\frametitle{Screenshot de la pantalla principal del sistema}
+\begin{columns}
+\column{0.20\linewidth}
+\begin{block}{Caracteristicas del sistema}
+\begin{itemize}
+\item Bueno
+\item Bonito
+\item Barato
+\end{itemize}
+\end{block}
+\column{0.80\linewidth}
+Imagenes en la misma línea
+\begin{center}
+\includegraphics[width=3cm]{graphics/capturapantalla2.png}
+\includegraphics[width=3cm]{graphics/capturapantalla2.png}
+\includegraphics[width=3cm]{graphics/capturapantalla2.png}
+
+\end{center}
+\end{columns}
+\end{frame}
+
+
+
+\section{Conclusiones y trabajo futuro}
+\begin{frame}
+\frametitle{Conclusiones}
+\begin{itemize}
+\item En este proyecto no aprendí nada
+\item Vi muchos videos de YuTú
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Trabajo Futuro}
+\begin{itemize}
+\item El sistema no jala ni nunca jaló
+\item Busquen un programador de verdad para que lo arregle
+\end{itemize}
+
+\end{frame}
+
+\section*{References}
+\begin{frame}[t,noframenumbering,plain,allowframebreaks]{Referencias}
+    %\frametitle{Referencias}
+    \AtNextBibliography{\tiny}
+    \printbibliography
+\end{frame}
+
+% En la ultima diapositiva ponen de fondo la version de la portada
+\usebackgroundtemplate{%
+%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\begin{frame}
+\frametitle{}
+\begin{center}
+\Huge GRACIAS
+\end{center}
+\end{frame}
+
+\end{document}

@@ -1,0 +1,213 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Microsoft:Concepto}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://code.visualstud io.com/.}}
+      \field{title}{Visual Studio Code - Code Editing. Redefined.}
+      \field{year}{2016}
+    \endentry
+    \entry{OUI}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6c8e6257a3263c0416960375ecea72f3}{%
+           family={{Gil Levi and Tal Hassner}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c8e6257a3263c0416960375ecea72f3}
+      \strng{fullhash}{6c8e6257a3263c0416960375ecea72f3}
+      \strng{bibnamehash}{6c8e6257a3263c0416960375ecea72f3}
+      \strng{authorbibnamehash}{6c8e6257a3263c0416960375ecea72f3}
+      \strng{authornamehash}{6c8e6257a3263c0416960375ecea72f3}
+      \strng{authorfullhash}{6c8e6257a3263c0416960375ecea72f3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Open University of Israel}
+      \field{title}{{Face Image Project - Data}}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
+      \endverb
+      \verb{url}
+      \verb https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
+      \endverb
+    \endentry
+    \entry{Sistema:2018:Ivan}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0e7391700c78d80b544872599602b115}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e7391700c78d80b544872599602b115}
+      \strng{fullhash}{0e7391700c78d80b544872599602b115}
+      \strng{bibnamehash}{0e7391700c78d80b544872599602b115}
+      \strng{authorbibnamehash}{0e7391700c78d80b544872599602b115}
+      \strng{authornamehash}{0e7391700c78d80b544872599602b115}
+      \strng{authorfullhash}{0e7391700c78d80b544872599602b115}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.emprendepyme.net/que-es-un-sistema-de-informacion.html}}
+      \field{title}{¿Que es un sistema de información?-Definición de sistema de información}
+      \field{year}{2018}
+      \warn{\item misc entry 'Sistema:2018:Ivan' (references.bib): Invalid format '28-11-2018' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{dblp}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4aecfb0cc2e1e3b7899129fa2a94e2b8}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=193bcec5240237591ad8fb697869f013}{%
+           family={Ghemawat},
+           familyi={G\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{59b423e9fed33260f87a089f738c1beb}
+      \strng{fullhash}{59b423e9fed33260f87a089f738c1beb}
+      \strng{bibnamehash}{59b423e9fed33260f87a089f738c1beb}
+      \strng{authorbibnamehash}{59b423e9fed33260f87a089f738c1beb}
+      \strng{authornamehash}{59b423e9fed33260f87a089f738c1beb}
+      \strng{authorfullhash}{59b423e9fed33260f87a089f738c1beb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{OSDI}
+      \field{note}{\href{http://www.usenix.org/events/osdi04/tech/dean.html}{http://www.usenix.org/events/osdi04/tech/dean.html}}
+      \field{title}{MapReduce: Simplified Data Processing on Large Clusters}
+      \field{year}{2004}
+    \endentry
+    \entry{rojas96neural}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c1877dc945cc34c8614fc465f3667c5b}{%
+           family={Rojas},
+           familyi={R\bibinitperiod},
+           given={Raul},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{c1877dc945cc34c8614fc465f3667c5b}
+      \strng{fullhash}{c1877dc945cc34c8614fc465f3667c5b}
+      \strng{bibnamehash}{c1877dc945cc34c8614fc465f3667c5b}
+      \strng{authorbibnamehash}{c1877dc945cc34c8614fc465f3667c5b}
+      \strng{authornamehash}{c1877dc945cc34c8614fc465f3667c5b}
+      \strng{authorfullhash}{c1877dc945cc34c8614fc465f3667c5b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neural Networks - A Systematic Introduction}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb http://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/pmwiki/pmwiki.php?n=Books.NeuralNetworksBook
+      \endverb
+      \verb{url}
+      \verb http://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/pmwiki/pmwiki.php?n=Books.NeuralNetworksBook
+      \endverb
+      \keyw{SOM clustering ebook neural-networks seminar}
+    \endentry
+    \entry{Mueller:02}{book}{}
+      \name{author}{1}{}{%
+        {{hash=004dd3343d91520cbe3865b7e62fad82}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford}%
+      }
+      \list{publisher}{1}{%
+        {CSLI Publications}%
+      }
+      \strng{namehash}{004dd3343d91520cbe3865b7e62fad82}
+      \strng{fullhash}{004dd3343d91520cbe3865b7e62fad82}
+      \strng{bibnamehash}{004dd3343d91520cbe3865b7e62fad82}
+      \strng{authorbibnamehash}{004dd3343d91520cbe3865b7e62fad82}
+      \strng{authornamehash}{004dd3343d91520cbe3865b7e62fad82}
+      \strng{authorfullhash}{004dd3343d91520cbe3865b7e62fad82}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Studies in Constraint-Based Lexicalism}
+      \field{title}{Complex Predicates. {V}erbal Complexes, Resultative Constructions, and Particle Verbs in {G}erman}
+      \field{year}{2002}
+    \endentry
+    \entry{Bech:63}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2e9337e8216e4e8819f7069fc217ee78}{%
+           family={Bech},
+           familyi={B\bibinitperiod},
+           given={Gunnar},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e9337e8216e4e8819f7069fc217ee78}
+      \strng{fullhash}{2e9337e8216e4e8819f7069fc217ee78}
+      \strng{bibnamehash}{2e9337e8216e4e8819f7069fc217ee78}
+      \strng{authorbibnamehash}{2e9337e8216e4e8819f7069fc217ee78}
+      \strng{authornamehash}{2e9337e8216e4e8819f7069fc217ee78}
+      \strng{authorfullhash}{2e9337e8216e4e8819f7069fc217ee78}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lingua}
+      \field{title}{Grammatische {G}esetze im {W}iderspruch}
+      \field{volume}{12}
+      \field{year}{1963}
+      \field{pages}{291\bibrangedash 299}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
