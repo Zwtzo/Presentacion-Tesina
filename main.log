@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  4 DEC 2025 08:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  4 DEC 2025 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -823,24 +823,24 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -895,60 +895,60 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 21.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 20.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 20.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 20.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 20.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 20.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 20.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 20.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 20.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 20.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 20.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 20.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 20.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 20.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 20.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 21.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 20.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 20.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 20.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 21.
  (C:\Program Files\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Program Files\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -974,20 +974,14 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Sistema:2018:Ivan':
-(biblatex)                - misc entry 'Sistema:2018:Ivan' (references.bib): Invalid format '28-11-2018' of date field 'urldate' - ignoring.
-
-)
-Package biblatex Info: Reference section=0 on input line 20.
-Package biblatex Info: Reference segment=0 on input line 20.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 21.
+Package biblatex Info: Reference segment=0 on input line 21.
  (main.nav)
 <Diapositiva1.png, id=80, 943.9347pt x 530.96327pt>
 File: Diapositiva1.png Graphic file (type png)
 <use Diapositiva1.png>
-Package pdftex.def Info: Diapositiva1.png  used on input line 26.
+Package pdftex.def Info: Diapositiva1.png  used on input line 27.
 (pdftex.def)             Requested size: 455.244pt x 256.08284pt.
  [1
 
@@ -995,144 +989,187 @@ Package pdftex.def Info: Diapositiva1.png  used on input line 26.
 <Diapositiva2.png, id=140, 887.88857pt x 550.62857pt>
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 35.
+Package pdftex.def Info: Diapositiva2.png  used on input line 36.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [2
 
  <./Diapositiva2.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 48.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 50.
  (C:\Program Files\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 48.
+Package pdftex.def Info: Diapositiva2.png  used on input line 50.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [3
 
 ]
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 59.
+Package pdftex.def Info: Diapositiva2.png  used on input line 68.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [4
 
 ]
+<diagrama_mvc_uml.png, id=282, 3472.975pt x 2449.15pt>
+File: diagrama_mvc_uml.png Graphic file (type png)
+<use diagrama_mvc_uml.png>
+Package pdftex.def Info: diagrama_mvc_uml.png  used on input line 92.
+(pdftex.def)             Requested size: 159.333pt x 112.33713pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 80.
+Package pdftex.def Info: Diapositiva2.png  used on input line 92.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [5
 
-]
-File: Diapositiva2.png Graphic file (type png)
-<use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 88.
-(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
- [6
+ <./diagrama_mvc_uml.png>]
+<diagrama_caso_de_uso.png, id=328, 827.09pt x 1253.68375pt>
+File: diagrama_caso_de_uso.png Graphic file (type png)
+<use diagrama_caso_de_uso.png>
+Package pdftex.def Info: diagrama_caso_de_uso.png  used on input line 120.
+(pdftex.def)             Requested size: 79.66649pt x 120.74634pt.
 
-]
+Overfull \vbox (19.97145pt too high) detected at line 120
+ []
+
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 93.
+Package pdftex.def Info: Diapositiva2.png  used on input line 120.
+(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
+[6
+
+ <./diagrama_caso_de_uso.png>]
+<Login.png, id=374, 1028.34187pt x 429.10312pt>
+File: Login.png Graphic file (type png)
+<use Login.png>
+Package pdftex.def Info: Login.png  used on input line 141.
+(pdftex.def)             Requested size: 199.1693pt x 83.1084pt.
+File: Diapositiva2.png Graphic file (type png)
+<use Diapositiva2.png>
+Package pdftex.def Info: Diapositiva2.png  used on input line 141.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [7
 
-]
-<graphics/ER_tikz.png, id=430, 392.9079pt x 256.7994pt>
-File: graphics/ER_tikz.png Graphic file (type png)
-<use graphics/ER_tikz.png>
-Package pdftex.def Info: graphics/ER_tikz.png  used on input line 102.
-(pdftex.def)             Requested size: 284.52756pt x 185.96123pt.
+ <./Login.png>]
+<Formulario.png, id=423, 1015.54407pt x 389.95688pt>
+File: Formulario.png Graphic file (type png)
+<use Formulario.png>
+Package pdftex.def Info: Formulario.png  used on input line 162.
+(pdftex.def)             Requested size: 199.1693pt x 76.47862pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 102.
+Package pdftex.def Info: Diapositiva2.png  used on input line 162.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [8
 
- <./graphics/ER_tikz.png>]
-<graphics/CasodeUso.png, id=478, 411.5375pt x 396.48125pt>
-File: graphics/CasodeUso.png Graphic file (type png)
-<use graphics/CasodeUso.png>
-Package pdftex.def Info: graphics/CasodeUso.png  used on input line 123.
-(pdftex.def)             Requested size: 170.71652pt x 164.4701pt.
+ <./Formulario.png>]
+<Notificación.png, id=469, 732.48656pt x 191.21437pt>
+File: Notificación.png Graphic file (type png)
+<use Notificación.png>
+Package pdftex.def Info: Notificación.png  used on input line 181.
+(pdftex.def)             Requested size: 298.75394pt x 77.98991pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 123.
+Package pdftex.def Info: Diapositiva2.png  used on input line 181.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [9
 
- <./graphics/CasodeUso.png>]
-<graphics/DiagramaCasosdeClases.png, id=524, 894.34125pt x 649.42625pt>
-File: graphics/DiagramaCasosdeClases.png Graphic file (type png)
-<use graphics/DiagramaCasosdeClases.png>
-Package pdftex.def Info: graphics/DiagramaCasosdeClases.png  used on input line 143.
-(pdftex.def)             Requested size: 170.71652pt x 123.96701pt.
+ <./Notificación.png>]
+<Dashboard.png, id=515, 1011.02719pt x 420.82219pt>
+File: Dashboard.png Graphic file (type png)
+<use Dashboard.png>
+Package pdftex.def Info: Dashboard.png  used on input line 206.
+(pdftex.def)             Requested size: 199.1693pt x 82.89796pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 143.
+Package pdftex.def Info: Diapositiva2.png  used on input line 206.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [10
 
- <./graphics/DiagramaCasosdeClases.png>]
-<graphics/capturapantalla2.png, id=570, 542.025pt x 963.6pt>
-File: graphics/capturapantalla2.png Graphic file (type png)
-<use graphics/capturapantalla2.png>
-Package pdftex.def Info: graphics/capturapantalla2.png  used on input line 169.
-(pdftex.def)             Requested size: 85.35826pt x 151.73839pt.
-File: graphics/capturapantalla2.png Graphic file (type png)
-<use graphics/capturapantalla2.png>
-Package pdftex.def Info: graphics/capturapantalla2.png  used on input line 169.
-(pdftex.def)             Requested size: 85.35826pt x 151.73839pt.
-File: graphics/capturapantalla2.png Graphic file (type png)
-<use graphics/capturapantalla2.png>
-Package pdftex.def Info: graphics/capturapantalla2.png  used on input line 169.
-(pdftex.def)             Requested size: 85.35826pt x 151.73839pt.
+ <./Dashboard.png>]
+<Generación_y_visualización.png, id=563, 1005.00468pt x 413.29407pt>
+File: Generación_y_visualización.png Graphic file (type png)
+<use Generación_y_visualización.png>
+Package pdftex.def Info: Generación_y_visualización.png  used on input line 225.
+(pdftex.def)             Requested size: 199.1693pt x 81.90057pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 169.
+Package pdftex.def Info: Diapositiva2.png  used on input line 225.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [11
 
- <./graphics/capturapantalla2.png>]
+ <./Generación_y_visualización.png>]
+<vista_seguimiento.png, id=611, 1025.33063pt x 375.65344pt>
+File: vista_seguimiento.png Graphic file (type png)
+<use vista_seguimiento.png>
+Package pdftex.def Info: vista_seguimiento.png  used on input line 243.
+(pdftex.def)             Requested size: 199.1693pt x 72.96838pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 180.
+Package pdftex.def Info: Diapositiva2.png  used on input line 243.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [12
 
-]
+ <./vista_seguimiento.png>]
+<Vista_admin.png, id=658, 1014.03844pt x 390.70969pt>
+File: Vista_admin.png Graphic file (type png)
+<use Vista_admin.png>
+Package pdftex.def Info: Vista_admin.png  used on input line 261.
+(pdftex.def)             Requested size: 199.1693pt x 76.73953pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 189.
+Package pdftex.def Info: Diapositiva2.png  used on input line 261.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
  [13
 
-]
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <6> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 196.
-
+ <./Vista_admin.png>]
+<gestion_tecnico.png, id=705, 849.1725pt x 350.05782pt>
+File: gestion_tecnico.png Graphic file (type png)
+<use gestion_tecnico.png>
+Package pdftex.def Info: gestion_tecnico.png  used on input line 279.
+(pdftex.def)             Requested size: 199.1693pt x 82.10335pt.
 File: Diapositiva2.png Graphic file (type png)
 <use Diapositiva2.png>
-Package pdftex.def Info: Diapositiva2.png  used on input line 196.
+Package pdftex.def Info: Diapositiva2.png  used on input line 279.
 (pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
-[14
+ [14
+
+ <./gestion_tecnico.png>]
+File: Diapositiva2.png Graphic file (type png)
+<use Diapositiva2.png>
+Package pdftex.def Info: Diapositiva2.png  used on input line 298.
+(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
+ [15
+
+]
+File: Diapositiva2.png Graphic file (type png)
+<use Diapositiva2.png>
+Package pdftex.def Info: Diapositiva2.png  used on input line 308.
+(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
+ [16
+
+]
+File: Diapositiva2.png Graphic file (type png)
+<use Diapositiva2.png>
+Package pdftex.def Info: Diapositiva2.png  used on input line 317.
+(pdftex.def)             Requested size: 455.24228pt x 256.07324pt.
+ [17
 
 ]
 File: Diapositiva1.png Graphic file (type png)
 <use Diapositiva1.png>
-Package pdftex.def Info: Diapositiva1.png  used on input line 207.
+Package pdftex.def Info: Diapositiva1.png  used on input line 328.
 (pdftex.def)             Requested size: 455.244pt x 256.08284pt.
- [15
+ [18
 
 ]
 \tf@nav=\write7
@@ -1156,17 +1193,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31826 strings out of 474485
- 630832 string characters out of 5753562
- 1939542 words of memory out of 5000000
- 53524 multiletter control sequences out of 15000+600000
- 567886 words of font info for 71 fonts, out of 8000000 for 9000
+ 31835 strings out of 474485
+ 630396 string characters out of 5753562
+ 1934542 words of memory out of 5000000
+ 53535 multiletter control sequences out of 15000+600000
+ 566431 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,750b,1474s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (15 pages, 719455 bytes).
+ 128i,14n,123p,750b,1359s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (18 pages, 994248 bytes).
 PDF statistics:
- 835 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 960 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
 

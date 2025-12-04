@@ -1,5 +1,5 @@
 \beamer@sectionintoc {1}{Introducción}{3}{0}{1}
 \beamer@sectionintoc {2}{Marco teórico}{6}{0}{2}
-\beamer@sectionintoc {3}{Sistema Propuesto}{8}{0}{3}
-\beamer@sectionintoc {4}{Implementación y resultados}{11}{0}{4}
-\beamer@sectionintoc {5}{Conclusiones y trabajo futuro}{12}{0}{5}
+\beamer@sectionintoc {3}{Sistema Propuesto}{7}{0}{3}
+\beamer@sectionintoc {4}{Implementación y resultados}{10}{0}{4}
+\beamer@sectionintoc {5}{Conclusiones y trabajo futuro}{15}{0}{5}

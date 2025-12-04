@@ -446,65 +446,109 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
+INPUT .\diagrama_mvc_uml.png
+INPUT .\diagrama_mvc_uml.png
+INPUT .\diagrama_mvc_uml.png
+INPUT .\diagrama_mvc_uml.png
+INPUT .\diagrama_mvc_uml.png
+INPUT .\diagrama_mvc_uml.png
+INPUT .\diagrama_mvc_uml.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
+INPUT .\diagrama_caso_de_uso.png
+INPUT .\diagrama_caso_de_uso.png
+INPUT .\diagrama_caso_de_uso.png
+INPUT .\diagrama_caso_de_uso.png
+INPUT .\diagrama_caso_de_uso.png
+INPUT .\diagrama_caso_de_uso.png
+INPUT .\diagrama_caso_de_uso.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
-INPUT .\graphics\ER_tikz.png
-INPUT .\graphics\ER_tikz.png
-INPUT .\graphics\ER_tikz.png
-INPUT .\graphics\ER_tikz.png
-INPUT .\graphics\ER_tikz.png
-INPUT .\graphics\ER_tikz.png
-INPUT .\graphics\ER_tikz.png
+INPUT .\Login.png
+INPUT .\Login.png
+INPUT .\Login.png
+INPUT .\Login.png
+INPUT .\Login.png
+INPUT .\Login.png
+INPUT .\Login.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
-INPUT .\graphics\CasodeUso.png
-INPUT .\graphics\CasodeUso.png
-INPUT .\graphics\CasodeUso.png
-INPUT .\graphics\CasodeUso.png
-INPUT .\graphics\CasodeUso.png
-INPUT .\graphics\CasodeUso.png
-INPUT .\graphics\CasodeUso.png
+INPUT .\Formulario.png
+INPUT .\Formulario.png
+INPUT .\Formulario.png
+INPUT .\Formulario.png
+INPUT .\Formulario.png
+INPUT .\Formulario.png
+INPUT .\Formulario.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
-INPUT .\graphics\DiagramaCasosdeClases.png
-INPUT .\graphics\DiagramaCasosdeClases.png
-INPUT .\graphics\DiagramaCasosdeClases.png
-INPUT .\graphics\DiagramaCasosdeClases.png
-INPUT .\graphics\DiagramaCasosdeClases.png
-INPUT .\graphics\DiagramaCasosdeClases.png
-INPUT .\graphics\DiagramaCasosdeClases.png
+INPUT .\Notificación.png
+INPUT .\Notificación.png
+INPUT .\Notificación.png
+INPUT .\Notificación.png
+INPUT .\Notificación.png
+INPUT .\Notificación.png
+INPUT .\Notificación.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
-INPUT .\graphics\capturapantalla2.png
+INPUT .\Dashboard.png
+INPUT .\Dashboard.png
+INPUT .\Dashboard.png
+INPUT .\Dashboard.png
+INPUT .\Dashboard.png
+INPUT .\Dashboard.png
+INPUT .\Dashboard.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi10.tfm
+INPUT .\Generación_y_visualización.png
+INPUT .\Generación_y_visualización.png
+INPUT .\Generación_y_visualización.png
+INPUT .\Generación_y_visualización.png
+INPUT .\Generación_y_visualización.png
+INPUT .\Generación_y_visualización.png
+INPUT .\Generación_y_visualización.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\vista_seguimiento.png
+INPUT .\vista_seguimiento.png
+INPUT .\vista_seguimiento.png
+INPUT .\vista_seguimiento.png
+INPUT .\vista_seguimiento.png
+INPUT .\vista_seguimiento.png
+INPUT .\vista_seguimiento.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Vista_admin.png
+INPUT .\Vista_admin.png
+INPUT .\Vista_admin.png
+INPUT .\Vista_admin.png
+INPUT .\Vista_admin.png
+INPUT .\Vista_admin.png
+INPUT .\Vista_admin.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\gestion_tecnico.png
+INPUT .\gestion_tecnico.png
+INPUT .\gestion_tecnico.png
+INPUT .\gestion_tecnico.png
+INPUT .\gestion_tecnico.png
+INPUT .\gestion_tecnico.png
+INPUT .\gestion_tecnico.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
@@ -515,13 +559,6 @@ INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
@@ -537,8 +574,6 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
@@ -549,9 +584,9 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
