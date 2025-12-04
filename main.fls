@@ -286,6 +286,21 @@ INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
@@ -384,9 +399,9 @@ INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-numbers-dictionary
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Program Files\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 OUTPUT main.bcf
 INPUT main.bbl
 INPUT .\main.bbl
@@ -406,16 +421,6 @@ INPUT .\Diapositiva1.png
 INPUT .\Diapositiva1.png
 INPUT .\Diapositiva1.png
 INPUT C:\Users\Z\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\main.toc
-INPUT .\main.toc
-INPUT main.toc
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
@@ -446,10 +451,14 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
@@ -457,9 +466,6 @@ INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
@@ -467,9 +473,6 @@ INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
 INPUT .\diagrama_caso_de_uso.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\Login.png
 INPUT .\Login.png
 INPUT .\Login.png
@@ -477,9 +480,6 @@ INPUT .\Login.png
 INPUT .\Login.png
 INPUT .\Login.png
 INPUT .\Login.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
@@ -487,9 +487,6 @@ INPUT .\Formulario.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
@@ -497,9 +494,6 @@ INPUT .\Notificación.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
@@ -507,9 +501,6 @@ INPUT .\Dashboard.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi10.tfm
 INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
@@ -518,10 +509,6 @@ INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
@@ -529,9 +516,6 @@ INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
@@ -539,9 +523,6 @@ INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
@@ -549,19 +530,6 @@ INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi8.tfm
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss17.tfm
 INPUT .\Diapositiva1.png
 INPUT .\Diapositiva1.png
@@ -586,7 +554,5 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb

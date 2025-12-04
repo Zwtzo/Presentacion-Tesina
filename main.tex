@@ -1,320 +1,254 @@
 \documentclass[aspectratio=169]{beamer}
-%Information to be included in the title page:
+
+% --- Paquetes y Configuración ---
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[backend=biber, style=ieee, bibstyle=numeric, citestyle=numeric, sorting=none]{biblatex}
+\addbibresource{references.bib}
+
+% --- Estética del Beamer ---
+\setbeamertemplate{sidebar right}{}
+\setbeamertemplate{footline}{%
+  \hfill\usebeamertemplate***{navigation symbols}
+  \hspace{1cm}\insertframenumber{}/\inserttotalframenumber}
+\setbeamertemplate{bibliography item}{\insertbiblabel}
+
+% --- Datos de Portada ---
 \title{Sistema de Gestión de Solicitudes Mesa de Ayuda "Helpdesk".}
 \subtitle{Tesina para obtener el grado de Ingeniería en Tecnologías de la Información.}
 \author{Juan Daniel Guerrero Guerrero}
 \institute{Universidad Politécnica de Victoria}
 \date{8 de Diciembre de 2025}
 
-\usepackage{graphicx}
-\usepackage{tikz}
-\setbeamertemplate{sidebar right}{}
-\setbeamertemplate{footline}{%
-\hfill\usebeamertemplate***{navigation symbols}
-\hspace{1cm}\insertframenumber{}/\inserttotalframenumber}
-
-\usepackage[backend=biber, style=ieee, bibstyle=numeric, citestyle=numeric, sorting=none]{biblatex}
-\addbibresource{references.bib}
-\setbeamertemplate{bibliography item}{\insertbiblabel}
-
-
 \begin{document}
 
-\usebackgroundtemplate{%
-%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
-\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
-\thispagestyle{empty}
-\frame{\titlepage}
-
-\usebackgroundtemplate{%
-%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
-\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva2}};}
-
-\begin{frame}
-\frametitle{Contenido}
-\tableofcontents
+% --- Diapositiva 1: Portada ---
+{
+\usebackgroundtemplate{\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\begin{frame}[plain]
+    \titlepage
 \end{frame}
+}
 
-
+% --- Diapositiva 2: Definición del Problema (Fondo especial) ---
+{
+\usebackgroundtemplate{\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva2}};}
 \section{Introducción}
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Situación Actual en la DIT}
-\begin{itemize}
-\item Actualmente, el proceso de atención en la DIT carece de un sistema organizado.
-
-\item Se utilizan canales informales (WhatsApp, verbal), lo que causa pérdida de información.
-
-\item Existe duplicidad de tareas y falta de indicadores para la toma de decisiones.
-\end{itemize}
+\begin{frame}{Situación Actual en la DIT}
+    \begin{itemize}
+        \item Actualmente, el proceso de atención en la DIT carece de un sistema organizado.
+        \item Se utilizan canales informales (WhatsApp, verbal), lo que causa pérdida de información.
+        \item Existe duplicidad de tareas y falta de indicadores para la toma de decisiones.
+    \end{itemize}
 \end{frame}
-%%-------------------------------------------------------
+}
 
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Objetivos}
-\textbf{Objetivo General}
-\begin{itemize}
-\item[] Desarrollar un sistema web que permita gestionar de manera eficiente, centralizada y trazable las solicitudes.
-\end{itemize}
+% --- Diapositiva 3: Objetivos ---
+\begin{frame}{Objetivos}
+    \textbf{Objetivo General}
+    \begin{itemize}
+        \item[] Desarrollar un sistema web que permita gestionar de manera eficiente, centralizada y trazable las solicitudes.
+    \end{itemize}
 
-\vspace{0.3cm}
+    \vspace{0.3cm}
 
-\textbf{Objetivos Específicos}
-\begin{itemize}
-\item Implementar módulos de autenticación y asignación.
-\item Generar reportes y visualización de indicadores (KPIs).
-\end{itemize}
+    \textbf{Objetivos Específicos}
+    \begin{itemize}
+        \item Implementar módulos de autenticación y asignación.
+        \item Generar reportes y visualización de indicadores (KPIs).
+    \end{itemize}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Arquitectura del Sistema (MVC)}
-
-Se utiliza una arquitectura Cliente-Servidor sobre el framework CakePHP.
-
-\begin{itemize}
-\item \textbf{Modelo:} Gestiona la lógica de datos y conexión a MySQL.
-
-\item \textbf{Vista:} Plantillas que generan la interfaz de usuario.
-
-\item \textbf{Controlador:} Intermediario que procesa las peticiones HTTP.
-\end{itemize}
-
-\vspace{0.5cm}
-
-\begin{center}
-% Ajusta el width (0.7) según el tamaño real de tu imagen
-\includegraphics[width=0.4\textwidth]{diagrama_mvc_uml.png}
-\end{center}
-
+% --- Índice (Opcional, pero útil) ---
+\begin{frame}{Contenido}
+    \tableofcontents
 \end{frame}
-%%-------------------------------------------------------
 
+% ==========================================
+% SECCIÓN 2: ARQUITECTURA Y DISEÑO
+% ==========================================
+\section{Arquitectura y Diseño}
 
+% --- Diapositiva 4: Arquitectura MVC (Movida aquí por lógica) ---
+\begin{frame}{Arquitectura del Sistema (MVC)}
+    Se utiliza una arquitectura Cliente-Servidor sobre el framework CakePHP.
+    \begin{itemize}
+        \item \textbf{Modelo:} Gestiona la lógica de datos y conexión a MySQL.
+        \item \textbf{Vista:} Plantillas que generan la interfaz de usuario.
+        \item \textbf{Controlador:} Intermediario que procesa las peticiones HTTP.
+    \end{itemize}
 
-\section{Marco teórico}
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Actores y Funcionalidades}
-
-El sistema interactúa con 4 actores principales: \textbf{Administrador}, \textbf{Jefe de Área}, \textbf{Agente Técnico} y \textbf{Solicitante}.
-
-\vspace{0.3cm}
-
-\textbf{Funcionalidades clave:}
-\begin{itemize}
-\item Registrar solicitud.
-\item Asignar ticket.
-\item Validar solución.
-\item Visualizar Dashboard.
-\end{itemize}
-
-\vspace{0.2cm}
-
-\begin{center}
-\includegraphics[width=0.2\textwidth]{diagrama_caso_de_uso.png}
-\end{center}
-
+    \vspace{0.3cm}
+    \begin{center}
+        \includegraphics[width=0.4\textwidth]{diagrama_mvc_uml.png}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
+% --- Diapositiva 5: Actores ---
+\begin{frame}{Actores y Funcionalidades}
+    El sistema interactúa con 4 actores principales: \textbf{Administrador}, \textbf{Jefe de Área}, \textbf{Agente Técnico} y \textbf{Solicitante}.
 
-\section{Sistema Propuesto}
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Autenticación y Control de Acceso}
+    \vspace{0.3cm}
+    \textbf{Funcionalidades clave:}
+    \begin{itemize}
+        \item Registrar solicitud, Asignar ticket, Validar solución y Visualizar Dashboard.
+    \end{itemize}
 
-\begin{itemize}
-\item Implementación de autenticación segura y control de acceso basado en roles (RBAC).
-
-\item Validación de identidad mediante usuario y contraseña encriptada.
-\end{itemize}
-
-\vspace{0.5cm}
-
-\begin{center}
-\includegraphics[width=0.5\textwidth]{Login.png}
-\end{center}
-
+    \vspace{0.2cm}
+    \begin{center}
+        \includegraphics[width=0.25\textwidth]{diagrama_caso_de_uso.png}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Registro de Solicitudes}
+% ==========================================
+% SECCIÓN 3: FUNCIONAMIENTO DEL SISTEMA
+% ==========================================
+\section{Funcionamiento del Sistema}
 
-\begin{itemize}
-\item Formulario accesible para usuarios internos y externos.
-
-\item Captura de datos críticos: Descripción del problema, tipo de solicitud y evidencia adjunta.
-
-\item Validación automática de archivos adjuntos.
-\end{itemize}
-
-\vspace{0.5cm}
-
-\begin{center}
-\includegraphics[width=0.5\textwidth]{Formulario.png}
-\end{center}
-
+% --- Diapositiva 6: Seguridad ---
+\begin{frame}{Autenticación y Control de Acceso}
+    \begin{itemize}
+        \item Implementación de autenticación segura y control de acceso basado en roles (RBAC).
+        \item Validación de identidad mediante usuario y contraseña encriptada.
+    \end{itemize}
+    \vspace{0.2cm}
+    \begin{center}
+        \includegraphics[width=0.5\textwidth]{Login.png}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Automatización y Notificaciones}
-
-\begin{itemize}
-\item Envío automático de correos electrónicos al crear un ticket o cambiar su estatus.
-
-\item Incluye un enlace directo (token) para seguimiento sin necesidad de login para externos.
-\end{itemize}
-
-\vspace{0.5cm}
-
-\begin{center}
-\includegraphics[width=0.75\textwidth]{Notificación.png}
-\end{center}
-
+% --- Diapositiva 7: Registro ---
+\begin{frame}{Registro de Solicitudes}
+    \begin{itemize}
+        \item Formulario accesible para usuarios internos y externos.
+        \item Captura de datos críticos: Descripción, tipo de solicitud y evidencia.
+        \item Validación automática de archivos adjuntos.
+    \end{itemize}
+    \vspace{0.2cm}
+    \begin{center}
+        \includegraphics[width=0.5\textwidth]{Formulario.png}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-
-
-
-\section{Implementación y resultados}
-%%-------------------------------------------------------
-\begin{frame}
-\frametitle{Panel de Control (Dashboard)}
-
-\begin{itemize}
-\item Visualización de Indicadores Clave de Desempeño (KPIs) en tiempo real.
-
-\item Contadores de tickets asignados, nuevos y pendientes de aprobación.
-
-\item Acceso rápido a reportes por área o agente.
-\end{itemize}
-
-\vspace{0.5cm}
-
-\begin{center}
-\includegraphics[width=0.5\textwidth]{Dashboard.png}
-\end{center}
-
+% --- Diapositiva 8: Automatización ---
+\begin{frame}{Automatización y Notificaciones}
+    \begin{itemize}
+        \item Envío automático de correos electrónicos al crear un ticket o cambiar su estatus.
+        \item Incluye un enlace directo (token) para seguimiento sin necesidad de login.
+    \end{itemize}
+    \vspace{0.2cm}
+    \begin{center}
+        \includegraphics[width=0.7\textwidth]{Notificación.png}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
+% ==========================================
+% SECCIÓN 4: MÓDULOS Y RESULTADOS
+% ==========================================
+\section{Módulos y Resultados}
+
+% --- Diapositiva 9: Dashboard ---
+\begin{frame}{Panel de Control (Dashboard)}
+    \begin{itemize}
+        \item Visualización de KPIs en tiempo real.
+        \item Contadores de tickets asignados, nuevos y pendientes.
+        \item Acceso rápido a reportes por área o agente.
+    \end{itemize}
+    \vspace{0.2cm}
+    \begin{center}
+        \includegraphics[width=0.5\textwidth]{Dashboard.png}
+    \end{center}
+\end{frame}
+
+% --- Diapositiva 10: Gestión ---
 \begin{frame}{Gestión y Asignación de Tickets}
     \begin{itemize}
-        \item Listado general de tickets recibidos en el área de ``Recepción''.
-        \item \textbf{Flujo de trabajo:} El jefe de área reasigna el ticket al departamento correcto o a un técnico específico.
+        \item Listado general de tickets en ``Recepción''.
+        \item \textbf{Flujo:} El jefe de área reasigna al departamento o técnico.
         \item Visualización de estatus: \textit{Nuevo, En Proceso, Finalizado}.
     \end{itemize}
-
-    \vspace{0.5cm}
-
-    \begin{figure}
-        \centering
-        % Ajusta el ancho (width) según el espacio disponible en tu plantilla
+    \vspace{0.2cm}
+    \begin{center}
         \includegraphics[width=0.5\textwidth]{Generación_y_visualización.png}
-        \caption{Listado tabular de tickets}
-    \end{figure}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
+% --- Diapositiva 11: Bitácora ---
 \begin{frame}{Seguimiento y Bitácora}
     \begin{itemize}
-        \item Historial detallado de cada incidencia (\textbf{Bitácora de seguimiento}).
-        \item Interacción tipo chat entre el agente técnico y el solicitante.
-        \item El sistema impide cerrar un ticket sin la validación del jefe de área (\textit{Status: Pendiente de Aprobación}).
+        \item Historial detallado de cada incidencia.
+        \item Interacción tipo chat entre técnico y solicitante.
+        \item Validación obligatoria del jefe de área para cerrar tickets.
     \end{itemize}
-
-    \vspace{0.5cm}
-
-    \begin{figure}
-        \centering
+    \vspace{0.2cm}
+    \begin{center}
         \includegraphics[width=0.5\textwidth]{vista_seguimiento.png}
-        \caption{Chat de interacción y detalles del ticket}
-    \end{figure}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
+% --- Diapositiva 12: Admin ---
 \begin{frame}{Módulo Administrativo}
     \begin{itemize}
-        \item Gestión de catálogos del sistema: Usuarios, Áreas, Tipos de Solicitud y Estatus.
-        \item Panel exclusivo para usuarios con rol de \textbf{Administrador}.
-        \item Permite la configuración global del sistema sin necesidad de modificar el código.
+        \item Gestión de catálogos: Usuarios, Áreas, Tipos y Estatus.
+        \item Panel exclusivo para rol \textbf{Administrador}.
+        \item Configuración global sin tocar código.
     \end{itemize}
-
-    \vspace{0.5cm}
-
-    \begin{figure}
-        \centering
+    \vspace{0.2cm}
+    \begin{center}
         \includegraphics[width=0.5\textwidth]{Vista_admin.png}
-        \caption{Tablas de configuración y gestión de catálogos}
-    \end{figure}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
+% --- Diapositiva 13: Técnico ---
 \begin{frame}{Vista del Técnico}
     \begin{itemize}
-        \item Bandeja personalizada para el agente técnico.
-        \item Solo muestra los tickets asignados a su ID de empleado para focalizar el trabajo.
-        \item Permite acciones rápidas: \textbf{Ver detalles} o \textbf{Cambiar estatus}.
+        \item Bandeja personalizada filtrada por ID de empleado.
+        \item Acciones rápidas: \textbf{Ver detalles} o \textbf{Cambiar estatus}.
     \end{itemize}
-
-    \vspace{0.5cm}
-
-    \begin{figure}
-        \centering
+    \vspace{0.2cm}
+    \begin{center}
         \includegraphics[width=0.5\textwidth]{gestion_tecnico.png}
-        \caption{Vista filtrada para el agente}
-    \end{figure}
+    \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-\section{Conclusiones y trabajo futuro}
+% ==========================================
+% SECCIÓN 5: CIERRE
+% ==========================================
+\section{Conclusiones y Futuro}
 
-%%-------------------------------------------------------
+% --- Diapositiva 14: Conclusiones ---
 \begin{frame}{Conclusiones}
     \begin{itemize}
         \item Se logró centralizar la información y eliminar la pérdida de datos.
-        \item Se implementó exitosamente la trazabilidad y auditoría de acciones.
-        \item El sistema provee métricas reales para evaluar la carga laboral y eficiencia de la DIT.
+        \item Se implementó exitosamente la trazabilidad y auditoría.
+        \item El sistema provee métricas reales para evaluar la eficiencia de la DIT.
     \end{itemize}
-    
     \vspace{1cm}
-    
-    % Espacio reservado para logo o cierre textual
     \begin{center}
         \textbf{Universidad Politécnica de Victoria}
     \end{center}
 \end{frame}
-%%-------------------------------------------------------
 
-%%-------------------------------------------------------
+% --- Diapositiva 15: Futuro ---
 \begin{frame}{Trabajo Futuro}
     \begin{itemize}
-        \item \textbf{Módulo de Inventarios:} Desarrollar una vinculación directa entre los tickets de soporte y los números de serie del hardware para identificar equipos recurrentemente problemáticos.
-        \item \textbf{Notificaciones en Tiempo Real:} Implementar tecnología WebSockets para que las alertas aparezcan inmediatamente en pantalla sin necesidad de recargar la página o revisar el correo.
-        \item \textbf{Aplicación Móvil:} Crear una App nativa (o API REST) para que los técnicos de campo puedan actualizar el estatus y cerrar tickets desde su celular en el lugar de los hechos.
+        \item \textbf{Módulo de Inventarios:} Vinculación tickets - hardware.
+        \item \textbf{Notificaciones Real-Time:} WebSockets para alertas instantáneas.
+        \item \textbf{Aplicación Móvil:} App nativa para técnicos de campo.
     \end{itemize}
 \end{frame}
-%%-------------------------------------------------------
 
-
-\section*{References}
+% --- Referencias ---
+\section*{Referencias}
 \begin{frame}[t,noframenumbering,plain,allowframebreaks]{Referencias}
     %\frametitle{Referencias}
     \AtNextBibliography{\tiny}
     \printbibliography
 \end{frame}
+
+
 
 % En la ultima diapositiva ponen de fondo la version de la portada
 \usebackgroundtemplate{%
