@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  6 DEC 2025 09:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  6 DEC 2025 09:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1053,16 +1053,12 @@ Package pdftex.def Info: Diapositiva2.png  used on input line 50.
  <./Diapositiva2.png>] [4
 
 ]
-<diagrama_mvc_uml.png, id=287, 944.52875pt x 1396.21625pt>
+<diagrama_mvc_uml.png, id=287, 2610.75375pt x 537.00626pt>
 File: diagrama_mvc_uml.png Graphic file (type png)
 <use diagrama_mvc_uml.png>
 Package pdftex.def Info: diagrama_mvc_uml.png  used on input line 89.
-(pdftex.def)             Requested size: 159.333pt x 235.52144pt.
-
-Overfull \vbox (90.38524pt too high) detected at line 89
- []
-
-[5
+(pdftex.def)             Requested size: 318.67209pt x 65.54416pt.
+ [5
 
  <./diagrama_mvc_uml.png>]
 <Diagrama_ER.png, id=335, 849.1725pt x 364.36125pt>
@@ -1211,7 +1207,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,750b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (23 pages, 1098540 bytes).
+Output written on main.pdf (23 pages, 1097176 bytes).
 PDF statistics:
  1206 PDF objects out of 1440 (max. 8388607)
  85 named destinations out of 1000 (max. 500000)
