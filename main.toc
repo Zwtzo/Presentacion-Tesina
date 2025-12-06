@@ -1,7 +1,7 @@
 \babel@toc {spanish}{}\relax 
 \beamer@sectionintoc {1}{Introducción}{3}{0}{1}
 \beamer@sectionintoc {2}{Arquitectura y Diseño}{5}{0}{2}
-\beamer@sectionintoc {3}{Funcionamiento del Sistema}{8}{0}{3}
-\beamer@sectionintoc {4}{Módulos y Resultados}{11}{0}{4}
-\beamer@sectionintoc {5}{Pruebas y Validación}{16}{0}{5}
-\beamer@sectionintoc {6}{Conclusiones y Trabajo Futuro}{17}{0}{6}
+\beamer@sectionintoc {3}{Funcionamiento del Sistema}{9}{0}{3}
+\beamer@sectionintoc {4}{Módulos y Resultados}{12}{0}{4}
+\beamer@sectionintoc {5}{Pruebas y Validación}{17}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones y Trabajo Futuro}{18}{0}{6}

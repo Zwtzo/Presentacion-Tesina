@@ -113,18 +113,38 @@
 % --- Nueva Diapositiva: Base de Datos ---
 
 % --- Diapositiva 5: Actores ---
-\begin{frame}{Actores y Funcionalidades}
-    El sistema interactúa con 4 actores principales: \textbf{Administrador}, \textbf{Jefe de Área}, \textbf{Agente Técnico} y \textbf{Solicitante}.
+\begin{frame}{Actores y Funcionalidades: Flujo Operativo}
+    El sistema se basa en la interacción diaria entre quien tiene el problema y quien lo resuelve.
 
-    \vspace{0.3cm}
-    \textbf{Funcionalidades clave:}
+    \vspace{0.2cm}
+    \textbf{Actores Operativos:}
     \begin{itemize}
-        \item Registrar solicitud, Asignar ticket, Validar solución y Visualizar Dashboard.
+        \item \textbf{Solicitante:} Reporta incidencias y da seguimiento.
+        \item \textbf{Agente Técnico:} Diagnostica, comenta y resuelve.
     \end{itemize}
 
     \vspace{0.2cm}
     \begin{center}
-        \includegraphics[width=0.25\textwidth]{diagrama_caso_de_uso.png}
+        % Ajustamos al 85% del ancho del texto para que se vea grande
+        % Asegúrate de que la imagen esté en la carpeta del proyecto
+        \includegraphics[width=0.3\textwidth]{diagrama_caso_de_uso_1.png}
+    \end{center}
+\end{frame}
+
+\begin{frame}{Actores y Funcionalidades: Nivel de Gestión}
+    Por encima del flujo operativo, existen roles de control y configuración para garantizar la calidad del servicio.
+
+    \vspace{0.2cm}
+    \textbf{Actores de Gestión:}
+    \begin{itemize}
+        \item \textbf{Jefe de Área:} Realiza el triaje (cambio de área) y valida soluciones.
+        \item \textbf{Administrador:} Configura catálogos y usuarios globales.
+    \end{itemize}
+
+    \vspace{0.2cm}
+    \begin{center}
+        % Mismo ajuste de tamaño
+        \includegraphics[width=0.28\textwidth]{diagrama_caso_de_uso_2.png}
     \end{center}
 \end{frame}
 

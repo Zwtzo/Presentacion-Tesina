@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  4 DEC 2025 12:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.3)  6 DEC 2025 09:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1053,100 +1053,110 @@ Package pdftex.def Info: Diapositiva2.png  used on input line 50.
  <./Diapositiva2.png>] [4
 
 ]
-<diagrama_mvc_uml.png, id=287, 3472.975pt x 2449.15pt>
+<diagrama_mvc_uml.png, id=287, 944.52875pt x 1396.21625pt>
 File: diagrama_mvc_uml.png Graphic file (type png)
 <use diagrama_mvc_uml.png>
 Package pdftex.def Info: diagrama_mvc_uml.png  used on input line 89.
-(pdftex.def)             Requested size: 159.333pt x 112.33713pt.
- [5
+(pdftex.def)             Requested size: 159.333pt x 235.52144pt.
+
+Overfull \vbox (90.38524pt too high) detected at line 89
+ []
+
+[5
 
  <./diagrama_mvc_uml.png>]
-<Diagrama_ER.png, id=335, 1564.84625pt x 1231.60126pt>
+<Diagrama_ER.png, id=335, 849.1725pt x 364.36125pt>
 File: Diagrama_ER.png Graphic file (type png)
 <use Diagrama_ER.png>
 Package pdftex.def Info: Diagrama_ER.png  used on input line 112.
-(pdftex.def)             Requested size: 179.25114pt x 141.07678pt.
+(pdftex.def)             Requested size: 179.25114pt x 76.91286pt.
  [6
 
  <./Diagrama_ER.png>]
-<diagrama_caso_de_uso.png, id=383, 827.09pt x 1253.68375pt>
-File: diagrama_caso_de_uso.png Graphic file (type png)
-<use diagrama_caso_de_uso.png>
-Package pdftex.def Info: diagrama_caso_de_uso.png  used on input line 129.
-(pdftex.def)             Requested size: 99.58464pt x 150.93292pt.
+<diagrama_caso_de_uso_1.png, id=384, 1420.30624pt x 1101.11375pt>
+File: diagrama_caso_de_uso_1.png Graphic file (type png)
+<use diagrama_caso_de_uso_1.png>
+Package pdftex.def Info: diagrama_caso_de_uso_1.png  used on input line 132.
+(pdftex.def)             Requested size: 119.50279pt x 92.64413pt.
+ [7
 
-Overfull \vbox (11.48718pt too high) detected at line 129
+ <./diagrama_caso_de_uso_1.png>]
+<diagrama_caso_de_uso_2.png, id=431, 1212.53pt x 1420.30624pt>
+File: diagrama_caso_de_uso_2.png Graphic file (type png)
+<use diagrama_caso_de_uso_2.png>
+Package pdftex.def Info: diagrama_caso_de_uso_2.png  used on input line 149.
+(pdftex.def)             Requested size: 111.53432pt x 130.63942pt.
+
+Overfull \vbox (1.94824pt too high) detected at line 149
  []
 
-[7
+[8
 
- <./diagrama_caso_de_uso.png>]
-<Login.png, id=430, 1028.34187pt x 429.10312pt>
+ <./diagrama_caso_de_uso_2.png>]
+<Login.png, id=477, 1028.34187pt x 429.10312pt>
 File: Login.png Graphic file (type png)
 <use Login.png>
-Package pdftex.def Info: Login.png  used on input line 146.
+Package pdftex.def Info: Login.png  used on input line 166.
 (pdftex.def)             Requested size: 199.1693pt x 83.1084pt.
- [8
-
- <./Login.png>]
-<Formulario.png, id=478, 1015.54407pt x 389.95688pt>
-File: Formulario.png Graphic file (type png)
-<use Formulario.png>
-Package pdftex.def Info: Formulario.png  used on input line 159.
-(pdftex.def)             Requested size: 199.1693pt x 76.47862pt.
  [9
 
- <./Formulario.png>]
-<Notificación.png, id=524, 732.48656pt x 191.21437pt>
-File: Notificación.png Graphic file (type png)
-<use Notificación.png>
-Package pdftex.def Info: Notificación.png  used on input line 171.
-(pdftex.def)             Requested size: 278.83578pt x 72.79059pt.
+ <./Login.png>]
+<Formulario.png, id=525, 1015.54407pt x 389.95688pt>
+File: Formulario.png Graphic file (type png)
+<use Formulario.png>
+Package pdftex.def Info: Formulario.png  used on input line 179.
+(pdftex.def)             Requested size: 199.1693pt x 76.47862pt.
  [10
 
- <./Notificación.png>]
-<Dashboard.png, id=570, 1011.02719pt x 420.82219pt>
-File: Dashboard.png Graphic file (type png)
-<use Dashboard.png>
-Package pdftex.def Info: Dashboard.png  used on input line 189.
-(pdftex.def)             Requested size: 199.1693pt x 82.89796pt.
+ <./Formulario.png>]
+<Notificación.png, id=571, 732.48656pt x 191.21437pt>
+File: Notificación.png Graphic file (type png)
+<use Notificación.png>
+Package pdftex.def Info: Notificación.png  used on input line 191.
+(pdftex.def)             Requested size: 278.83578pt x 72.79059pt.
  [11
 
- <./Dashboard.png>]
-<Generación_y_visualización.png, id=618, 1005.00468pt x 413.29407pt>
-File: Generación_y_visualización.png Graphic file (type png)
-<use Generación_y_visualización.png>
-Package pdftex.def Info: Generación_y_visualización.png  used on input line 202.
-(pdftex.def)             Requested size: 199.1693pt x 81.90057pt.
+ <./Notificación.png>]
+<Dashboard.png, id=617, 1011.02719pt x 420.82219pt>
+File: Dashboard.png Graphic file (type png)
+<use Dashboard.png>
+Package pdftex.def Info: Dashboard.png  used on input line 209.
+(pdftex.def)             Requested size: 199.1693pt x 82.89796pt.
  [12
 
- <./Generación_y_visualización.png>]
-<vista_seguimiento.png, id=666, 1025.33063pt x 375.65344pt>
-File: vista_seguimiento.png Graphic file (type png)
-<use vista_seguimiento.png>
-Package pdftex.def Info: vista_seguimiento.png  used on input line 215.
-(pdftex.def)             Requested size: 199.1693pt x 72.96838pt.
+ <./Dashboard.png>]
+<Generación_y_visualización.png, id=665, 1005.00468pt x 413.29407pt>
+File: Generación_y_visualización.png Graphic file (type png)
+<use Generación_y_visualización.png>
+Package pdftex.def Info: Generación_y_visualización.png  used on input line 222.
+(pdftex.def)             Requested size: 199.1693pt x 81.90057pt.
  [13
 
- <./vista_seguimiento.png>]
-<Vista_admin.png, id=714, 1014.03844pt x 390.70969pt>
-File: Vista_admin.png Graphic file (type png)
-<use Vista_admin.png>
-Package pdftex.def Info: Vista_admin.png  used on input line 228.
-(pdftex.def)             Requested size: 199.1693pt x 76.73953pt.
+ <./Generación_y_visualización.png>]
+<vista_seguimiento.png, id=714, 1025.33063pt x 375.65344pt>
+File: vista_seguimiento.png Graphic file (type png)
+<use vista_seguimiento.png>
+Package pdftex.def Info: vista_seguimiento.png  used on input line 235.
+(pdftex.def)             Requested size: 199.1693pt x 72.96838pt.
  [14
 
- <./Vista_admin.png>]
-<gestion_tecnico.png, id=760, 849.1725pt x 350.05782pt>
-File: gestion_tecnico.png Graphic file (type png)
-<use gestion_tecnico.png>
-Package pdftex.def Info: gestion_tecnico.png  used on input line 240.
-(pdftex.def)             Requested size: 199.1693pt x 82.10335pt.
+ <./vista_seguimiento.png>]
+<Vista_admin.png, id=761, 1014.03844pt x 390.70969pt>
+File: Vista_admin.png Graphic file (type png)
+<use Vista_admin.png>
+Package pdftex.def Info: Vista_admin.png  used on input line 248.
+(pdftex.def)             Requested size: 199.1693pt x 76.73953pt.
  [15
 
- <./gestion_tecnico.png>] [16
+ <./Vista_admin.png>]
+<gestion_tecnico.png, id=807, 849.1725pt x 350.05782pt>
+File: gestion_tecnico.png Graphic file (type png)
+<use gestion_tecnico.png>
+Package pdftex.def Info: gestion_tecnico.png  used on input line 260.
+(pdftex.def)             Requested size: 199.1693pt x 82.10335pt.
+ [16
 
-] [17
+ <./gestion_tecnico.png>] [17
 
 ] [18
 
@@ -1154,16 +1164,18 @@ Package pdftex.def Info: gestion_tecnico.png  used on input line 240.
 
 ] [20
 
-
 ] [21
+
+
+] [22
 
 
 ]
 File: Diapositiva1.png Graphic file (type png)
 <use Diapositiva1.png>
-Package pdftex.def Info: Diapositiva1.png  used on input line 312.
+Package pdftex.def Info: Diapositiva1.png  used on input line 332.
 (pdftex.def)             Requested size: 455.244pt x 256.08284pt.
- [22
+ [23
 
 ]
 \tf@nav=\write7
@@ -1191,17 +1203,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33398 strings out of 474485
- 660273 string characters out of 5753562
+ 33409 strings out of 474485
+ 660552 string characters out of 5753562
  1947542 words of memory out of 5000000
- 55037 multiletter control sequences out of 15000+600000
+ 55046 multiletter control sequences out of 15000+600000
  566600 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,750b,1983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (22 pages, 1142907 bytes).
+Output written on main.pdf (23 pages, 1098540 bytes).
 PDF statistics:
- 1158 PDF objects out of 1200 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1206 PDF objects out of 1440 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

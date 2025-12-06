@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1764871493.15397 "main.bcf" "main.bbl" "main" 1764873533.93041 0
-  "main.bcf" 1764873533 106964 82f3b41e120ea282173693e14f79d7f9 "pdflatex"
+["biber main"] 1764871493.15397 "main.bcf" "main.bbl" "main" 1765034848.9399 0
+  "main.bcf" 1765034848 106964 82f3b41e120ea282173693e14f79d7f9 "pdflatex"
   "references.bib" 1764871491 6953 3951f656113d6ed99cfe17ca00048405 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1764873523.81903 "c:/Users/Z/Downloads/PlantillaParaExposiciones_UPV_EstanciayEstadia_2024/main.tex" "main.pdf" "main" 1764873533.93199 0
+["pdflatex"] 1765034840.60618 "c:/Users/Z/Downloads/PlantillaParaExposiciones_UPV_EstanciayEstadia_2024/main.tex" "main.pdf" "main" 1765034848.9414 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -239,7 +239,7 @@
   "C:/Users/Z/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1756911411 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Z/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1756911425 24215259 c5108ccaadf1d2274f79b4f5840a93ca ""
   "Dashboard.png" 1762444527 55220 b6dd3a70c870f6cce6c87285c19bba18 ""
-  "Diagrama_ER.png" 1764873308 163422 f54e433e1f75391965d44a3c446b61b8 ""
+  "Diagrama_ER.png" 1765033386 71655 c94614fbe69f4c97ebfe4fc9dff087bd ""
   "Diapositiva1.png" 1764879750 184848 bdc022c3f17482dce6d47c45033e3614 ""
   "Diapositiva2.png" 1764879750 119461 e0ddf10fe5261d207a04178b373048d6 ""
   "Formulario.png" 1762443980 36449 1c4bb8ea0201c178695d353f5e470938 ""
@@ -247,17 +247,18 @@
   "Login.png" 1762444322 15367 ce31a60336e2d71c8be81f1d5a70f837 ""
   "Notificación.png" 1762442451 30344 00ee85db36b219522721ed332555ac6c ""
   "Vista_admin.png" 1762444399 80048 84bff3bb87eb47f8a1d3934ebdf7d0c2 ""
-  "c:/Users/Z/Downloads/PlantillaParaExposiciones_UPV_EstanciayEstadia_2024/main.tex" 1764873509 10909 98e11fb9f3f5940fb6f686ec7e753a7d ""
-  "diagrama_caso_de_uso.png" 1764469759 75204 599e3e12583b0bc1aac672751523801d ""
-  "diagrama_mvc_uml.png" 1764170631 424690 5a97c2b2938f32eb861d1b0775035fb7 ""
+  "c:/Users/Z/Downloads/PlantillaParaExposiciones_UPV_EstanciayEstadia_2024/main.tex" 1765034838 11692 3632d75f110eb8a943cde00ab2b690b0 ""
+  "diagrama_caso_de_uso_1.png" 1765034511 151915 89ce195274c4f78071a8db513cc8f45f ""
+  "diagrama_caso_de_uso_2.png" 1765034821 157622 85e4d90f780ea8bf0f1312fa11e63c6a ""
+  "diagrama_mvc_uml.png" 1765033504 148322 e04fe8b173872ca8c43d4ecff37a6527 ""
   "gestion_tecnico.png" 1762444275 43312 15f229e300baa65a1ce8ea28c7fcb0a0 ""
-  "main.aux" 1764873532 8170 db68a38494a87408325af05d94c5cc53 "pdflatex"
+  "main.aux" 1765034848 8298 e7b7f7fc3f5fd3eed5f45d65d2505beb "pdflatex"
   "main.bbl" 1764871499 37197 4898b87dfefb63c61edf88dbac2ea66c "biber main"
-  "main.nav" 1764873533 3601 1e2beb0d1639954106f25024d105e029 "pdflatex"
-  "main.out" 1764873532 1139 76cb270ba71acebda54acf621748f391 "pdflatex"
-  "main.run.xml" 1764873533 2305 76c44fea4789d1f6305c2f013e1aba2a "pdflatex"
-  "main.tex" 1764873509 10909 98e11fb9f3f5940fb6f686ec7e753a7d ""
-  "main.toc" 1764873533 381 41ff8f04d5b4635b4d47aec17b3546e2 "pdflatex"
+  "main.nav" 1765034848 3693 6ad4d7a15a21d10e718a0d8c24825f06 "pdflatex"
+  "main.out" 1765034848 1139 76cb270ba71acebda54acf621748f391 "pdflatex"
+  "main.run.xml" 1765034848 2305 76c44fea4789d1f6305c2f013e1aba2a "pdflatex"
+  "main.tex" 1765034838 11692 3632d75f110eb8a943cde00ab2b690b0 ""
+  "main.toc" 1765034848 381 52de2966b3f77579b1e1a542353f68ce "pdflatex"
   "vista_seguimiento.png" 1762444171 36826 88afe1d4c1efab7e6f7f0761691eb9e6 ""
   (generated)
   "main.aux"
