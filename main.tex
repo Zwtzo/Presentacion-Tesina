@@ -25,12 +25,15 @@
 \begin{document}
 
 % --- Diapositiva 1: Portada ---
-{
-\usebackgroundtemplate{\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
-\begin{frame}[plain]
-    \titlepage
-\end{frame}
-}
+\usebackgroundtemplate{%
+%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\thispagestyle{empty}
+\frame{\titlepage}
+
+\usebackgroundtemplate{%
+%%\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva1}};}
+\tikz\node {\includegraphics[height=\paperheight,width=\paperwidth]{Diapositiva2}};}
 
 % --- Índice (Opcional, pero útil) ---
 \begin{frame}{Contenido}
@@ -156,7 +159,7 @@
     \vspace{0.2cm}
     \begin{center}
         % Mismo ajuste de tamaño
-        \includegraphics[width=0.28\textwidth]{diagrama_caso_de_uso_2.png}
+        \includegraphics[width=0.18\textwidth]{diagrama_caso_de_uso_2.png}
     \end{center}
 \end{frame}
 

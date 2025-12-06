@@ -424,6 +424,12 @@ INPUT C:\Users\Z\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
@@ -455,10 +461,13 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
 INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
-INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
@@ -466,6 +475,9 @@ INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
 INPUT .\diagrama_mvc_uml.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT .\Diagrama_ER.png
 INPUT .\Diagrama_ER.png
@@ -475,6 +487,9 @@ INPUT .\Diagrama_ER.png
 INPUT .\Diagrama_ER.png
 INPUT .\Diagrama_ER.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss9.tfm
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\diagrama_caso_de_uso_1.png
 INPUT .\diagrama_caso_de_uso_1.png
 INPUT .\diagrama_caso_de_uso_1.png
@@ -482,6 +497,9 @@ INPUT .\diagrama_caso_de_uso_1.png
 INPUT .\diagrama_caso_de_uso_1.png
 INPUT .\diagrama_caso_de_uso_1.png
 INPUT .\diagrama_caso_de_uso_1.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\diagrama_caso_de_uso_2.png
 INPUT .\diagrama_caso_de_uso_2.png
 INPUT .\diagrama_caso_de_uso_2.png
@@ -489,6 +507,9 @@ INPUT .\diagrama_caso_de_uso_2.png
 INPUT .\diagrama_caso_de_uso_2.png
 INPUT .\diagrama_caso_de_uso_2.png
 INPUT .\diagrama_caso_de_uso_2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\Login.png
 INPUT .\Login.png
 INPUT .\Login.png
@@ -496,6 +517,9 @@ INPUT .\Login.png
 INPUT .\Login.png
 INPUT .\Login.png
 INPUT .\Login.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
@@ -503,6 +527,9 @@ INPUT .\Formulario.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
 INPUT .\Formulario.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
@@ -510,6 +537,9 @@ INPUT .\Notificación.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
 INPUT .\Notificación.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
@@ -517,6 +547,9 @@ INPUT .\Dashboard.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
 INPUT .\Dashboard.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi10.tfm
 INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
@@ -525,6 +558,9 @@ INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
 INPUT .\Generación_y_visualización.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
@@ -532,6 +568,9 @@ INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
 INPUT .\vista_seguimiento.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
@@ -539,6 +578,9 @@ INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
 INPUT .\Vista_admin.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
@@ -546,7 +588,28 @@ INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
 INPUT .\gestion_tecnico.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssi8.tfm
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
+INPUT .\Diapositiva2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss17.tfm
 INPUT .\Diapositiva1.png
 INPUT .\Diapositiva1.png
